@@ -11,8 +11,12 @@
             "id": "47ae313497661436",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Basics/Operator (연산자).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basics/Operator (연산자).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Basics/Operator (연산자).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Basics/Operator (연산자).md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "844691cc50999ee9",
+  "active": "47ae313497661436",
   "lastOpenFiles": [
     "Basics",
     "Basics/연산의 종류.md",
