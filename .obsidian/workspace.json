@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "50a0ea1874ff16c3",
+        "id": "418a8f94f1295677",
         "type": "tabs",
         "children": [
           {
-            "id": "47ae313497661436",
+            "id": "06eeb3087b24bdda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Node.js/동기&비동기 VS. 블로킹&논블로킹.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "47ae313497661436",
+  "active": "06eeb3087b24bdda",
   "lastOpenFiles": [
+    "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
     "Basics/Operator (연산자).md",
     "Basics/연산의 종류.md",
-    "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
     "Node.js",
     "Basics"
   ]
