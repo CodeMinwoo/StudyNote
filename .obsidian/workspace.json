@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e01be9a367632b9",
+        "id": "996a9036bf109549",
         "type": "tabs",
         "children": [
           {
-            "id": "142d4aeb04cde0c1",
+            "id": "69fe2c81bf7dc762",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "142d4aeb04cde0c1",
+  "active": "69fe2c81bf7dc762",
   "lastOpenFiles": [
     "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
     "자료구조/Search Algorithm 검색 알고리즘.md",
