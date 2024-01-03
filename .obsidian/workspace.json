@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d747cefbb58a6a0",
+        "id": "5f271706eac1f45c",
         "type": "tabs",
         "children": [
           {
-            "id": "56dfc8b31b8f644a",
+            "id": "dbf4c6005b267c3e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "56dfc8b31b8f644a",
+  "active": "dbf4c6005b267c3e",
   "lastOpenFiles": [
     "GoLang/library(라이브러리) , package(패키지).md",
     "GoLang/go build 명령어.md",
