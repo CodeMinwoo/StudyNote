@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0b1ce23f41a3efe5",
+        "id": "b02a651d96bc9f15",
         "type": "tabs",
         "children": [
           {
-            "id": "16a4a157ef0f43e5",
+            "id": "f01c423b218f5e6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/f-string 표기법.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/f-string 표기법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/f-string 표기법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/f-string 표기법.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "16a4a157ef0f43e5",
+  "active": "f01c423b218f5e6d",
   "lastOpenFiles": [
+    "Python/f-string 표기법.md",
     "Python/for i in range.md",
     "GoLang/library(라이브러리) , package(패키지).md",
     "GoLang/go run 명령어.md",
@@ -157,7 +150,6 @@
     "자료구조/Abstract Data Type 추상적 자료구조.md",
     "자료구조/자료구조(Data Structure) 란 무엇인가?.md",
     "Python/map() 내장함수.md",
-    "Python/f-string 표기법.md",
     "Python/sys  빠른 입출력.md",
     "Python",
     "Basics/Operator (연산자).md",
