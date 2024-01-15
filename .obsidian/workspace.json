@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b02a651d96bc9f15",
+        "id": "e0aa449e1a89504a",
         "type": "tabs",
         "children": [
           {
-            "id": "f01c423b218f5e6d",
+            "id": "0c33dcdaf587f3a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,9 +138,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f01c423b218f5e6d",
+  "active": "0c33dcdaf587f3a6",
   "lastOpenFiles": [
+    "Python/Generator 제너레이터.md",
+    "Python/List Comprehension 리스트 컴프리헨션.md",
+    "Python/Comprehension 컴프리헨션.md",
     "Python/f-string 표기법.md",
+    "Python/sys  빠른 입출력.md",
+    "Python/map() 내장함수.md",
     "Python/for i in range.md",
     "GoLang/library(라이브러리) , package(패키지).md",
     "GoLang/go run 명령어.md",
@@ -149,8 +154,6 @@
     "자료구조/Array 배열의 자료구조.md",
     "자료구조/Abstract Data Type 추상적 자료구조.md",
     "자료구조/자료구조(Data Structure) 란 무엇인가?.md",
-    "Python/map() 내장함수.md",
-    "Python/sys  빠른 입출력.md",
     "Python",
     "Basics/Operator (연산자).md",
     "Basics/연산의 종류.md",
