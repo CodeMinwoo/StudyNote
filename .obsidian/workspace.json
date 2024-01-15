@@ -146,10 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0c33dcdaf587f3a6",
+  "active": "844691cc50999ee9",
   "lastOpenFiles": [
     "Python/iterator 이터레이터.md",
     "Python/Generator 제너레이터.md",
+    "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
     "Python/Comprehension 컴프리헨션.md",
     "Python/map() 내장함수.md",
     "Python/for i in range.md",
@@ -167,7 +168,6 @@
     "Basics/Operator (연산자).md",
     "Basics/연산의 종류.md",
     "GoLang",
-    "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
     "자료구조/Search Algorithm 검색 알고리즘.md",
     "자료구조/Stacks 스택.md",
     "자료구조/Queues 큐.md",
