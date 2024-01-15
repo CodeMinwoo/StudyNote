@@ -11,8 +11,12 @@
             "id": "0c33dcdaf587f3a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/Generator 제너레이터.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Generator 제너레이터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Generator 제너레이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Generator 제너레이터.md"
+              }
             }
           }
         ]
@@ -140,13 +148,14 @@
   },
   "active": "0c33dcdaf587f3a6",
   "lastOpenFiles": [
+    "Python/iterator 이터레이터.md",
     "Python/Generator 제너레이터.md",
-    "Python/List Comprehension 리스트 컴프리헨션.md",
     "Python/Comprehension 컴프리헨션.md",
-    "Python/f-string 표기법.md",
-    "Python/sys  빠른 입출력.md",
     "Python/map() 내장함수.md",
     "Python/for i in range.md",
+    "Python/f-string 표기법.md",
+    "Python/List Comprehension 리스트 컴프리헨션.md",
+    "Python/sys  빠른 입출력.md",
     "GoLang/library(라이브러리) , package(패키지).md",
     "GoLang/go run 명령어.md",
     "GoLang/go build 명령어.md",
