@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e0aa449e1a89504a",
+        "id": "ba010c47cdb1afae",
         "type": "tabs",
         "children": [
           {
-            "id": "0c33dcdaf587f3a6",
+            "id": "deaac3c64a3d208e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Generator 제너레이터.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Generator 제너레이터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Generator 제너레이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Generator 제너레이터.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "844691cc50999ee9",
+  "active": "deaac3c64a3d208e",
   "lastOpenFiles": [
-    "Python/iterator 이터레이터.md",
+    "Python/Sequence Type 시퀀스 타입.md",
     "Python/Generator 제너레이터.md",
+    "Python/iterator 이터레이터.md",
     "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
     "Python/Comprehension 컴프리헨션.md",
     "Python/map() 내장함수.md",
