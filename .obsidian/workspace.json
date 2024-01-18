@@ -11,8 +11,12 @@
             "id": "deaac3c64a3d208e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "VS/require VS. import.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VS/require VS. import.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VS/require VS. import.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "VS/require VS. import.md"
+              }
             }
           }
         ]
@@ -140,10 +148,15 @@
   },
   "active": "deaac3c64a3d208e",
   "lastOpenFiles": [
+    "Node.js/무제 파일.md",
+    "VS/require VS. import.md",
+    "VS",
+    "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
+    "Basics/Operator (연산자).md",
+    "Basics/연산의 종류.md",
     "Python/Sequence Type 시퀀스 타입.md",
     "Python/Generator 제너레이터.md",
     "Python/iterator 이터레이터.md",
-    "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
     "Python/Comprehension 컴프리헨션.md",
     "Python/map() 내장함수.md",
     "Python/for i in range.md",
@@ -158,15 +171,12 @@
     "자료구조/Abstract Data Type 추상적 자료구조.md",
     "자료구조/자료구조(Data Structure) 란 무엇인가?.md",
     "Python",
-    "Basics/Operator (연산자).md",
-    "Basics/연산의 종류.md",
     "GoLang",
     "자료구조/Search Algorithm 검색 알고리즘.md",
     "자료구조/Stacks 스택.md",
     "자료구조/Queues 큐.md",
     "자료구조/Hash Table 자료구조.md",
     "자료구조/Time Complexity 시간 복잡도.md",
-    "자료구조/Sorting Algorithm  정렬 알고리즘.md",
     "자료구조",
     "Node.js",
     "Basics"
