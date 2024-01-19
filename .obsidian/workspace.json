@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/Module 모듈.md",
+                "file": "Node.js/Hoisting 호이스팅.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/Module 모듈.md",
+                "file": "Node.js/Hoisting 호이스팅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/Module 모듈.md",
+                "file": "Node.js/Hoisting 호이스팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/Module 모듈.md"
+                "file": "Node.js/Hoisting 호이스팅.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "23da816b4da00e14",
   "lastOpenFiles": [
-    "Node.js/require VS. import.md",
+    "Node.js/Execution Context 실행 컨텍스트.md",
+    "Node.js/Hoisting 호이스팅.md",
     "Node.js/Module 모듈.md",
+    "Node.js/Scope 스코프.md",
+    "Node.js/require VS. import.md",
     "VS/require VS. import.md",
     "VS",
     "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
@@ -174,9 +177,6 @@
     "Python",
     "GoLang",
     "자료구조/Search Algorithm 검색 알고리즘.md",
-    "자료구조/Stacks 스택.md",
-    "자료구조/Queues 큐.md",
-    "자료구조/Hash Table 자료구조.md",
     "자료구조",
     "Node.js",
     "Basics"
