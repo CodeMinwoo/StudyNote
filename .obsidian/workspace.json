@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/Scope 스코프.md",
+                "file": "Node.js/Closure 클로저.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/Scope 스코프.md",
+                "file": "Node.js/Closure 클로저.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/Scope 스코프.md",
+                "file": "Node.js/Closure 클로저.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/Scope 스코프.md"
+                "file": "Node.js/Closure 클로저.md"
               }
             }
           }
@@ -148,11 +148,15 @@
   },
   "active": "23da816b4da00e14",
   "lastOpenFiles": [
-    "Node.js/Module 모듈.md",
-    "Node.js/require VS. import.md",
-    "Node.js/Hoisting 호이스팅.md",
     "Node.js/Execution Context 실행 컨텍스트.md",
+    "Node.js/Hoisting 호이스팅.md",
+    "Node.js/Lexical_Environment 렉시컬 환경.md",
+    "Node.js/Liexical_Scope 렉시컬 스코프.md",
+    "Dynamic_Scope 동적 스코프.md",
     "Node.js/Scope 스코프.md",
+    "Node.js/Module 모듈.md",
+    "Node.js/Closure 클로저.md",
+    "Node.js/require VS. import.md",
     "VS/require VS. import.md",
     "VS",
     "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
@@ -171,12 +175,8 @@
     "GoLang/go run 명령어.md",
     "GoLang/go build 명령어.md",
     "자료구조/Hash Function 해시 함수.md",
-    "자료구조/Array 배열의 자료구조.md",
-    "자료구조/Abstract Data Type 추상적 자료구조.md",
-    "자료구조/자료구조(Data Structure) 란 무엇인가?.md",
     "Python",
     "GoLang",
-    "자료구조/Search Algorithm 검색 알고리즘.md",
     "자료구조",
     "Node.js",
     "Basics"
