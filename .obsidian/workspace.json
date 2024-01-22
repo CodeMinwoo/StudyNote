@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "66fbd3007fe4323a",
+        "id": "3a6857e4af992230",
         "type": "tabs",
         "children": [
           {
-            "id": "23da816b4da00e14",
+            "id": "deb9e5673952925b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/Closure 클로저.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/Closure 클로저.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/Closure 클로저.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Node.js/Closure 클로저.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "23da816b4da00e14",
+  "active": "deb9e5673952925b",
   "lastOpenFiles": [
+    "Node.js/Closure 클로저.md",
     "Node.js/Execution Context 실행 컨텍스트.md",
     "Node.js/Hoisting 호이스팅.md",
     "Node.js/Lexical_Environment 렉시컬 환경.md",
@@ -155,7 +148,6 @@
     "Dynamic_Scope 동적 스코프.md",
     "Node.js/Scope 스코프.md",
     "Node.js/Module 모듈.md",
-    "Node.js/Closure 클로저.md",
     "Node.js/require VS. import.md",
     "VS/require VS. import.md",
     "VS",
