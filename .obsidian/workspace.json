@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3a6857e4af992230",
+        "id": "4a5747a42910da2a",
         "type": "tabs",
         "children": [
           {
-            "id": "deb9e5673952925b",
+            "id": "9933a213ac167753",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/Arrow Function 화살표 함수.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/Arrow Function 화살표 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/Arrow Function 화살표 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Node.js/Arrow Function 화살표 함수.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,18 +138,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "deb9e5673952925b",
+  "active": "9933a213ac167753",
   "lastOpenFiles": [
+    "Node.js/Lexical_Environment 렉시컬 환경.md",
+    "Node.js/Dynamic_Scope 동적 스코프.md",
+    "Node.js/Hoisting 호이스팅.md",
+    "Node.js/Execution Context 실행 컨텍스트.md",
+    "Node.js/Arrow Function 화살표 함수.md",
     "Node.js/require VS. import.md",
     "Node.js/Scope 스코프.md",
     "Node.js/Closure 클로저.md",
-    "Node.js/Arrow Function 화살표 함수.md",
     "Node.js/Property 프로퍼티.md",
-    "Node.js/Execution Context 실행 컨텍스트.md",
-    "Node.js/Hoisting 호이스팅.md",
-    "Node.js/Lexical_Environment 렉시컬 환경.md",
     "Node.js/Liexical_Scope 렉시컬 스코프.md",
-    "Dynamic_Scope 동적 스코프.md",
     "Node.js/Module 모듈.md",
     "VS/require VS. import.md",
     "VS",
