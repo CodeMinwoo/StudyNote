@@ -2,3 +2,4 @@
 
 # Iterable Type 중 순서가 있는 데이터 타입을 [[Sequence Type 시퀀스 타입]] 이라고 합니다
 
+# Iterable Type 의 메소드
