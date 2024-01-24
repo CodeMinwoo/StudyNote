@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d91dd54595c3e3fb",
+        "id": "25b9af38cf0f53e4",
         "type": "tabs",
         "children": [
           {
-            "id": "a7d57289a70dc823",
+            "id": "4f1dc55cccdc0c31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍋 취준일기.md",
+                "file": "Python/map() 내장함수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff338f5c27407959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Sort() && Sorted().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57fec7bf70e3290b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iterable Type 이터러블 타입.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍋 취준일기.md",
+                "file": "Iterable Type 이터러블 타입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍋 취준일기.md",
+                "file": "Iterable Type 이터러블 타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍋 취준일기.md"
+                "file": "Iterable Type 이터러블 타입.md"
               }
             }
           }
@@ -146,8 +171,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a7d57289a70dc823",
+  "active": "57fec7bf70e3290b",
   "lastOpenFiles": [
+    "Python/Sequence Type 시퀀스 타입.md",
+    "Iterable Type 이터러블 타입.md",
+    "Python/iterator 이터레이터.md",
+    "Python/Sort() && Sorted().md",
+    "Python/map() 내장함수.md",
+    "Python/List Method 리스트 메소드.md",
+    "Python/코딩테스트를 위한 파이썬 메소드 정리.md",
+    "Python/Generator 제너레이터.md",
     "🍋 취준일기.md",
     "Node.js/Lexical_Environment 렉시컬 환경.md",
     "Node.js/Dynamic_Scope 동적 스코프.md",
@@ -165,16 +198,8 @@
     "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
     "Basics/Operator (연산자).md",
     "Basics/연산의 종류.md",
-    "Python/Sequence Type 시퀀스 타입.md",
-    "Python/Generator 제너레이터.md",
-    "Python/iterator 이터레이터.md",
     "Python/Comprehension 컴프리헨션.md",
-    "Python/map() 내장함수.md",
     "Python/for i in range.md",
-    "Python/f-string 표기법.md",
-    "Python/List Comprehension 리스트 컴프리헨션.md",
-    "Python/sys  빠른 입출력.md",
-    "GoLang/library(라이브러리) , package(패키지).md",
     "Python",
     "GoLang",
     "자료구조",
