@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/메소드 정리 자료.md",
+                "file": "Node.js/Execution Context 실행 컨텍스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/메소드 정리 자료.md",
+                "file": "Node.js/Execution Context 실행 컨텍스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/메소드 정리 자료.md",
+                "file": "Node.js/Execution Context 실행 컨텍스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/메소드 정리 자료.md"
+                "file": "Node.js/Execution Context 실행 컨텍스트.md"
               }
             }
           }
@@ -148,8 +148,18 @@
   },
   "active": "935863939c74bfa2",
   "lastOpenFiles": [
-    "Python/Iterable Type 이터러블 타입.md",
+    "Node.js/Liexical_Scope 렉시컬 스코프.md",
+    "Node.js/Lexical_Environment 렉시컬 환경.md",
+    "Node.js/require VS. import.md",
+    "Node.js/Property 프로퍼티.md",
+    "Node.js/Arrow Function 화살표 함수.md",
+    "Node.js/Closure 클로저.md",
+    "Node.js/Dynamic_Scope 동적 스코프.md",
+    "Node.js/Scope 스코프.md",
+    "Node.js/Execution Context 실행 컨텍스트.md",
+    "동적 스코프.md",
     "Python/메소드 정리 자료.md",
+    "Python/Iterable Type 이터러블 타입.md",
     "Python/map() 내장함수.md",
     "Python/List Comprehension 리스트 컴프리헨션.md",
     "Python/Built-in Function 내장 함수.md",
@@ -161,20 +171,10 @@
     "Python/코딩테스트를 위한 파이썬 메소드 정리.md",
     "Python/Generator 제너레이터.md",
     "🍋 취준일기.md",
-    "Node.js/Lexical_Environment 렉시컬 환경.md",
-    "Node.js/Dynamic_Scope 동적 스코프.md",
     "Node.js/Hoisting 호이스팅.md",
-    "Node.js/Execution Context 실행 컨텍스트.md",
-    "Node.js/Arrow Function 화살표 함수.md",
-    "Node.js/require VS. import.md",
-    "Node.js/Scope 스코프.md",
-    "Node.js/Closure 클로저.md",
-    "Node.js/Property 프로퍼티.md",
-    "Node.js/Liexical_Scope 렉시컬 스코프.md",
     "Node.js/Module 모듈.md",
     "VS/require VS. import.md",
     "VS",
-    "Node.js/동기&비동기 VS. 블로킹&논블로킹.md",
     "Python",
     "GoLang",
     "자료구조",
