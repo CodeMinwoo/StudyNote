@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e6cf38d2fb0f2e58",
+        "id": "80a560d579f0d920",
         "type": "tabs",
         "children": [
           {
-            "id": "935863939c74bfa2",
+            "id": "3dbf552d5a1d1fe8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/JS_Array_Methods/reduce().md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/JS_Array_Methods/reduce().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/JS_Array_Methods/reduce().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Node.js/JS_Array_Methods/reduce().md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "935863939c74bfa2",
+  "active": "3dbf552d5a1d1fe8",
   "lastOpenFiles": [
-    "Node.js/Execution Context 실행 컨텍스트.md",
     "Node.js/JS_Array_Methods/reduce().md",
+    "Node.js/Execution Context 실행 컨텍스트.md",
     "Node.js/JS_Array_Methods",
     "Node.js/Liexical_Scope 렉시컬 스코프.md",
     "Node.js/Lexical_Environment 렉시컬 환경.md",
