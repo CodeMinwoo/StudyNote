@@ -11,8 +11,12 @@
             "id": "3dbf552d5a1d1fe8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Node.js/module.exports VS. exports.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Node.js/module.exports VS. exports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Node.js/module.exports VS. exports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Node.js/module.exports VS. exports.md"
+              }
             }
           }
         ]
@@ -140,18 +148,19 @@
   },
   "active": "3dbf552d5a1d1fe8",
   "lastOpenFiles": [
+    "Node.js/require VS. import.md",
+    "Node.js/module.exports VS. exports.md",
+    "Node.js/Arrow Function 화살표 함수.md",
+    "동적 스코프.md",
     "Node.js/JS_Array_Methods/reduce().md",
     "Node.js/Execution Context 실행 컨텍스트.md",
     "Node.js/JS_Array_Methods",
     "Node.js/Liexical_Scope 렉시컬 스코프.md",
     "Node.js/Lexical_Environment 렉시컬 환경.md",
-    "Node.js/require VS. import.md",
     "Node.js/Property 프로퍼티.md",
-    "Arrow Function 화살표 함수.md",
     "Node.js/Closure 클로저.md",
     "Node.js/Dynamic_Scope 동적 스코프.md",
     "Node.js/Scope 스코프.md",
-    "동적 스코프.md",
     "Python/메소드 정리 자료.md",
     "Python/Iterable Type 이터러블 타입.md",
     "Python/map() 내장함수.md",
@@ -166,7 +175,6 @@
     "Python/Generator 제너레이터.md",
     "🍋 취준일기.md",
     "Node.js/Hoisting 호이스팅.md",
-    "Node.js/Module 모듈.md",
     "VS",
     "Python",
     "GoLang",
