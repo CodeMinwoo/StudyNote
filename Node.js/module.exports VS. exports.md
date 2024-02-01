@@ -22,3 +22,47 @@ console.log(user);
 ```
 
 
+# module.exports 
+
+하나의 값 또는 하나의 객체만을 내보낼 수 있습니다
+
+예시
+
+```js
+
+const myValue = 'This is a single value';
+
+module.exports = myValue;
+
+```
+
+```js
+
+const value1 = 'This is value 1';
+const value2 = 'This is value 2';
+
+module.exports = {
+  prop1: value1,
+  prop2: value2
+};
+
+
+```
+
+# exports. 
+여러개의 값을 내보낼 수 있습니다
+
+예시
+
+```js
+// exampleModule.js
+exports.object1 = { key1: 'value1' };
+exports.object2 = { key2: 'value2' };
+
+
+const myModule = require('./exampleModule');
+console.log(myModule.object1); // { key1: 'value1' }
+console.log(myModule.object2); // { key2: 'value2' }
+
+```
+

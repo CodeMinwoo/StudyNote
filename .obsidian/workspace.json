@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80a560d579f0d920",
+        "id": "7a85087433a02c2e",
         "type": "tabs",
         "children": [
           {
-            "id": "3dbf552d5a1d1fe8",
+            "id": "37eb42a328ed5492",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/module.exports VS. exports.md",
+                "file": "Node.js/import.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/module.exports VS. exports.md",
+                "file": "Node.js/import.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/module.exports VS. exports.md",
+                "file": "Node.js/import.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/module.exports VS. exports.md"
+                "file": "Node.js/import.md"
               }
             }
           }
@@ -146,10 +146,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3dbf552d5a1d1fe8",
+  "active": "844691cc50999ee9",
   "lastOpenFiles": [
     "Node.js/require VS. import.md",
+    "Node.js/import.md",
+    "Node.js/무제 파일.md",
+    "Node.js/함수형 프로그래밍.md",
+    "Node.js/순수 함수.md",
+    "Node.js/Module 모듈.md",
     "Node.js/module.exports VS. exports.md",
+    "Node.js/Property 프로퍼티.md",
+    "Node.js/Scope 스코프.md",
+    "Node.js/부수 효과.md",
     "Node.js/Arrow Function 화살표 함수.md",
     "동적 스코프.md",
     "Node.js/JS_Array_Methods/reduce().md",
@@ -157,10 +165,8 @@
     "Node.js/JS_Array_Methods",
     "Node.js/Liexical_Scope 렉시컬 스코프.md",
     "Node.js/Lexical_Environment 렉시컬 환경.md",
-    "Node.js/Property 프로퍼티.md",
     "Node.js/Closure 클로저.md",
     "Node.js/Dynamic_Scope 동적 스코프.md",
-    "Node.js/Scope 스코프.md",
     "Python/메소드 정리 자료.md",
     "Python/Iterable Type 이터러블 타입.md",
     "Python/map() 내장함수.md",
@@ -169,12 +175,6 @@
     "Python/Sort() && Sorted().md",
     "Python/모듈, 패키지, 라이브러리.md",
     "Python/Sequence Type 시퀀스 타입.md",
-    "Python/iterator 이터레이터.md",
-    "Python/List Method 리스트 메소드.md",
-    "Python/코딩테스트를 위한 파이썬 메소드 정리.md",
-    "Python/Generator 제너레이터.md",
-    "🍋 취준일기.md",
-    "Node.js/Hoisting 호이스팅.md",
     "VS",
     "Python",
     "GoLang",

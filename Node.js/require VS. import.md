@@ -9,7 +9,7 @@ const express = require('express');
 const app = express();
 ```
 
-## import 예시
+## [[import]] 예시
 
 ```js
 import express from 'express';
