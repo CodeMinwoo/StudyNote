@@ -11,8 +11,12 @@
             "id": "83657623c2b5ca28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Node.js/Execution Context 실행 컨텍스트.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/동적 스코프.md",
+                "file": "Node.js/Execution Context 실행 컨텍스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/동적 스코프.md",
+                "file": "Node.js/Execution Context 실행 컨텍스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/동적 스코프.md"
+                "file": "Node.js/Execution Context 실행 컨텍스트.md"
               }
             }
           }
@@ -142,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "844691cc50999ee9",
+  "active": "83657623c2b5ca28",
   "lastOpenFiles": [
     "정처기_C언어",
     "Node.js/Module 모듈.md",
