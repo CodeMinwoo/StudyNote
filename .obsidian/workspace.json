@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a863d15461d72633",
+        "id": "4c48a583b28e34b2",
         "type": "tabs",
         "children": [
           {
-            "id": "0f7443ceb10bd101",
+            "id": "fd6a0669aa905057",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Form 전송.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Form 전송.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Form 전송.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Form 전송.md"
+              }
             }
           }
         ]
@@ -138,8 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0f7443ceb10bd101",
+  "active": "fd6a0669aa905057",
   "lastOpenFiles": [
+    "Node.js/프론트에서 백엔드로 데이터를 전달하는 방법.md",
+    "Form 전송.md",
+    "Node.js/HTTP 요청.md",
+    "Node.js/EJS 태그 삼형제.md",
     "Node.js/Execution Context 실행 컨텍스트.md",
     "정처기_C언어",
     "Node.js/Module 모듈.md",
@@ -164,9 +176,6 @@
     "Python/메소드 정리 자료.md",
     "Python/Iterable Type 이터러블 타입.md",
     "Python/map() 내장함수.md",
-    "Python/List Comprehension 리스트 컴프리헨션.md",
-    "Python/Built-in Function 내장 함수.md",
-    "Python/Sort() && Sorted().md",
     "VS",
     "Python",
     "GoLang",
