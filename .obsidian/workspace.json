@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3ce3d8a5bafb6b2",
+        "id": "d9cccc44d0ce05b5",
         "type": "tabs",
         "children": [
           {
-            "id": "4d95aa5576e50c9e",
+            "id": "49db0644cb9564a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/fetch보다 axios를 쓰는 이유.md",
+                "file": "Flex 핵심정리/flex-item 들을 컨테이너 너비에 맞춰 늘리기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/fetch보다 axios를 쓰는 이유.md",
+                "file": "Flex 핵심정리/flex-item 들을 컨테이너 너비에 맞춰 늘리기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/fetch보다 axios를 쓰는 이유.md",
+                "file": "Flex 핵심정리/flex-item 들을 컨테이너 너비에 맞춰 늘리기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/fetch보다 axios를 쓰는 이유.md"
+                "file": "Flex 핵심정리/flex-item 들을 컨테이너 너비에 맞춰 늘리기.md"
               }
             }
           }
@@ -143,19 +143,27 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d95aa5576e50c9e",
+  "active": "49db0644cb9564a6",
   "lastOpenFiles": [
+    "Flex 핵심정리/flex-item 들을 컨테이너 너비에 맞춰 늘리기.md",
+    "Flex 핵심정리",
+    "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
+    "Excalidraw/NanumGiBbeumBarkEum.ttf",
+    "Excalidraw/NanumNaNeunIGyeoNaenDa.ttf",
+    "Excalidraw/cmd.sh",
+    "Node.js/Form 전송.md",
+    "Node.js/fetch보다 axios를 쓰는 이유.md",
+    "Excalidraw",
     "Node.js/HTTP 요청.md",
     "Node.js/프론트에서 백엔드로 데이터를 전달하는 방법.md",
     "Node.js/순수 함수.md",
     "Node.js/module.exports VS. exports.md",
     "Node.js/Property 프로퍼티.md",
     "Node.js/Module 모듈.md",
-    "Node.js/fetch보다 axios를 쓰는 이유.md",
-    "Form 전송.md",
     "Node.js/EJS 태그 삼형제.md",
     "Node.js/Execution Context 실행 컨텍스트.md",
     "정처기_C언어",
@@ -174,13 +182,8 @@
     "Node.js/Liexical_Scope 렉시컬 스코프.md",
     "Node.js/Closure 클로저.md",
     "Node.js/Dynamic_Scope 동적 스코프.md",
-    "Python/메소드 정리 자료.md",
-    "Python/Iterable Type 이터러블 타입.md",
     "VS",
     "Python",
-    "GoLang",
-    "자료구조",
-    "Node.js",
-    "Basics"
+    "GoLang"
   ]
 }
