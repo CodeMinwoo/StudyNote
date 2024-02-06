@@ -11,8 +11,12 @@
             "id": "4d95aa5576e50c9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Node.js/fetch보다 axios를 쓰는 이유.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Node.js/fetch보다 axios를 쓰는 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Node.js/fetch보다 axios를 쓰는 이유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Node.js/fetch보다 axios를 쓰는 이유.md"
+              }
             }
           }
         ]
@@ -140,23 +148,23 @@
   },
   "active": "4d95aa5576e50c9e",
   "lastOpenFiles": [
+    "Node.js/HTTP 요청.md",
+    "Node.js/프론트에서 백엔드로 데이터를 전달하는 방법.md",
+    "Node.js/순수 함수.md",
+    "Node.js/module.exports VS. exports.md",
+    "Node.js/Property 프로퍼티.md",
+    "Node.js/Module 모듈.md",
     "Node.js/fetch보다 axios를 쓰는 이유.md",
     "Form 전송.md",
-    "Node.js/프론트에서 백엔드로 데이터를 전달하는 방법.md",
-    "Node.js/HTTP 요청.md",
     "Node.js/EJS 태그 삼형제.md",
     "Node.js/Execution Context 실행 컨텍스트.md",
     "정처기_C언어",
-    "Node.js/Module 모듈.md",
     "Node.js/import.md",
     "Node.js/Hoisting 호이스팅.md",
     "Node.js/require VS. import.md",
     "Node.js/Lexical_Environment 렉시컬 환경.md",
     "Node.js/무제 파일.md",
     "Node.js/함수형 프로그래밍.md",
-    "Node.js/순수 함수.md",
-    "Node.js/module.exports VS. exports.md",
-    "Node.js/Property 프로퍼티.md",
     "Node.js/Scope 스코프.md",
     "Node.js/부수 효과.md",
     "Node.js/Arrow Function 화살표 함수.md",
