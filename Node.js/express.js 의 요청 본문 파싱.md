@@ -3,10 +3,9 @@ Express.js에서는 'req.body' 를 사용하여 HTTP 요청의 본문에 있는 
 따라서 별도의 body-parser 미들웨어를 사용하여 요청의 본문을 파싱하고 데이터에 접근합니다
 
 ```js
-const bodyParser = require('body-parser');
 
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({extended : true }));
+app.use(express.json());
+app.use(express.urlencoded({extended : true }));
 
 ```
 

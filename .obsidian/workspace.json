@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "urlenco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,10 +150,10 @@
   },
   "active": "25214844bf32c1ec",
   "lastOpenFiles": [
-    "Node.js/HTTP 요청.md",
-    "Node.js/express.js 의 요청 본문 파싱.md",
-    "Node.js/Scope 스코프.md",
     "Node.js/Form 전송.md",
+    "Node.js/express.js 의 요청 본문 파싱.md",
+    "Node.js/HTTP 요청.md",
+    "Node.js/Scope 스코프.md",
     "Flex 핵심정리/flex-item 들을 컨테이너 너비에 맞춰 늘리기.md",
     "Flex 핵심정리",
     "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",

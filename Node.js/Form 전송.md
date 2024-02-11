@@ -21,6 +21,7 @@
 
 ```
 
+** input에 항상 name = "" 을 달아줘야 합니다 아니면 오류!
 axios 예시
 ```html
 <!DOCTYPE html>
