@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1743384bf2303b7e",
+        "id": "d62f54c754402c62",
         "type": "tabs",
         "children": [
           {
-            "id": "25214844bf32c1ec",
+            "id": "9db9ba2a241bd718",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/HTTP 요청.md",
+                "file": "Node.js/JS_Methods/Math.floor() 와 Math.trunc()의 차이점.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/HTTP 요청.md",
+                "file": "Node.js/JS_Methods/Math.floor() 와 Math.trunc()의 차이점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/HTTP 요청.md",
+                "file": "Node.js/JS_Methods/Math.floor() 와 Math.trunc()의 차이점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/HTTP 요청.md"
+                "file": "Node.js/JS_Methods/Math.floor() 와 Math.trunc()의 차이점.md"
               }
             }
           }
@@ -148,11 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25214844bf32c1ec",
+  "active": "9db9ba2a241bd718",
   "lastOpenFiles": [
+    "Node.js/HTTP 요청.md",
+    "Node.js/JS_Methods/Math.floor() 와 Math.trunc()의 차이점.md",
     "Node.js/express.js 의 요청 본문 파싱.md",
     "Node.js/Form 전송.md",
-    "Node.js/HTTP 요청.md",
     "Node.js/Scope 스코프.md",
     "Flex 핵심정리/flex-item 들을 컨테이너 너비에 맞춰 늘리기.md",
     "Flex 핵심정리",
@@ -179,10 +179,9 @@
     "Node.js/부수 효과.md",
     "Node.js/Arrow Function 화살표 함수.md",
     "Node.js/동적 스코프.md",
-    "Node.js/JS_Array_Methods/reduce().md",
-    "Node.js/JS_Array_Methods",
+    "Node.js/JS_Methods/reduce().md",
+    "Node.js/JS_Methods",
     "Node.js/Liexical_Scope 렉시컬 스코프.md",
-    "Node.js/Closure 클로저.md",
     "VS",
     "Python",
     "GoLang"
