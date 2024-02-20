@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/JS_Methods/splice, slice.md",
+                "file": "Node.js/return 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "얕은",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/JS_Methods/splice, slice.md",
+                "file": "Node.js/return 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/JS_Methods/splice, slice.md",
+                "file": "Node.js/return 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/JS_Methods/splice, slice.md"
+                "file": "Node.js/return 명령어.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "a183913436be282d",
   "lastOpenFiles": [
-    "얕은 복사(shallow copy).md",
-    "Node.js/JS_Methods/splice, slice.md",
     "Node.js/스프레드 연산자.md",
+    "Node.js/return 명령어.md",
+    "Node.js/const 변수 선언자.md",
+    "Node.js/JS_Methods/splice, slice.md",
+    "얕은 복사(shallow copy).md",
     "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
     "Flex 핵심정리/flex-item 들을 컨테이너 너비에 맞춰 늘리기.md",
     "Node.js/JS_Methods/Math.floor() 와 Math.trunc()의 차이점.md",
@@ -179,8 +181,6 @@
     "Node.js/Lexical_Environment 렉시컬 환경.md",
     "Node.js/무제 파일.md",
     "Node.js/함수형 프로그래밍.md",
-    "Node.js/부수 효과.md",
-    "Node.js/Arrow Function 화살표 함수.md",
     "Node.js/JS_Methods",
     "VS",
     "Python",
