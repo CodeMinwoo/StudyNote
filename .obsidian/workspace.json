@@ -11,9 +11,11 @@
             "id": "03cb46c576fa6e71",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md"
+                "file": "자바스크립트 오류 노트/배열 인덱스에 음수값을 넣으면.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
+                "file": "자바스크립트 오류 노트/배열 인덱스에 음수값을 넣으면.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
+                "file": "자바스크립트 오류 노트/배열 인덱스에 음수값을 넣으면.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md"
+                "file": "자바스크립트 오류 노트/배열 인덱스에 음수값을 넣으면.md"
               }
             }
           }
@@ -159,6 +161,8 @@
   },
   "active": "03cb46c576fa6e71",
   "lastOpenFiles": [
+    "자바스크립트 오류 노트/대소문자 변환은 기존 배열을 바꾸지 않는다.md",
+    "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
     "타입스크립트/인터페이스 interface.md",
     "자바스크립트 오류 노트/배열 인덱스에 음수값을 넣으면.md",
     "타입스크립트",
@@ -167,14 +171,12 @@
     "Node.js/JS_Methods/splice, slice.md",
     "Node.js/JS_Methods/reduce().md",
     "Node.js/JS_Methods/Math.floor() 와 Math.trunc()의 차이점.md",
-    "자바스크립트 오류 노트/대소문자 변환은 기존 배열을 바꾸지 않는다.md",
     "자바스크립트 오류 노트/map, forEach 메소드 문자열에 사용.md",
     "무제 파일.md",
     "자바스크립트 오류 노트",
     "Node.js/return 명령어.md",
     "Node.js/스프레드 연산자.md",
     "Node.js/const 변수 선언자.md",
-    "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
     "Flex 핵심정리/flex-item 들을 컨테이너 너비에 맞춰 늘리기.md",
     "Node.js/HTTP 요청.md",
     "Node.js/express.js 의 요청 본문 파싱.md",
