@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바스크립트 오류 노트/배열 인덱스에 음수값을 넣으면.md",
+                "file": "자바스크립트 오류 노트/div 박스를 인라인- 박스로 바꾸는 css 속성.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자바스크립트 오류 노트/배열 인덱스에 음수값을 넣으면.md",
+                "file": "자바스크립트 오류 노트/div 박스를 인라인- 박스로 바꾸는 css 속성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자바스크립트 오류 노트/배열 인덱스에 음수값을 넣으면.md",
+                "file": "자바스크립트 오류 노트/div 박스를 인라인- 박스로 바꾸는 css 속성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자바스크립트 오류 노트/배열 인덱스에 음수값을 넣으면.md"
+                "file": "자바스크립트 오류 노트/div 박스를 인라인- 박스로 바꾸는 css 속성.md"
               }
             }
           }
@@ -161,10 +161,11 @@
   },
   "active": "03cb46c576fa6e71",
   "lastOpenFiles": [
+    "자바스크립트 오류 노트/배열 인덱스에 음수값을 넣으면.md",
+    "자바스크립트 오류 노트/div 박스를 인라인- 박스로 바꾸는 css 속성.md",
     "자바스크립트 오류 노트/대소문자 변환은 기존 배열을 바꾸지 않는다.md",
     "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
     "타입스크립트/인터페이스 interface.md",
-    "자바스크립트 오류 노트/배열 인덱스에 음수값을 넣으면.md",
     "타입스크립트",
     "얕은 복사(shallow copy).md",
     "Node.js/동적 스코프.md",
@@ -193,7 +194,6 @@
     "Node.js/module.exports VS. exports.md",
     "Node.js/Property 프로퍼티.md",
     "Node.js/Module 모듈.md",
-    "Node.js/EJS 태그 삼형제.md",
     "정처기_C언어",
     "Node.js/JS_Methods",
     "VS"

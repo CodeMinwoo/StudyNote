@@ -1,0 +1,3 @@
+```css
+display : inline-box;
+```
