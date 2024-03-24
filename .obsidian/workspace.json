@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8eaa746c2b72b32a",
+        "id": "92fd5d96b3f0c2dd",
         "type": "tabs",
         "children": [
           {
-            "id": "d941ff988c723ead",
+            "id": "a4987f0425b72811",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/JS_Methods/replace, replaceAll 메소드.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/JS_Methods/replace, replaceAll 메소드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/JS_Methods/replace, replaceAll 메소드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Node.js/JS_Methods/replace, replaceAll 메소드.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d941ff988c723ead",
+  "active": "a4987f0425b72811",
   "lastOpenFiles": [
-    "자바스크립트 오류 노트/splice 메소드 문자열에 사용.md",
     "Node.js/JS_Methods/replace, replaceAll 메소드.md",
+    "자바스크립트 오류 노트/splice 메소드 문자열에 사용.md",
     "자바스크립트 오류 노트/str.indexOf('q'  ㅣㅣ 'Q') 가 되나?.md",
     "자바스크립트 오류 노트/문자열 전체에 대해서 toLowerCase가 되나?.md",
     "자바스크립트 오류 노트/대소문자 변환은 기존 배열을 바꾸지 않는다.md",
