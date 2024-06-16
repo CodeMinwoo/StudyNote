@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "92fd5d96b3f0c2dd",
+        "id": "b083a6a4fe113076",
         "type": "tabs",
         "children": [
           {
-            "id": "a4987f0425b72811",
+            "id": "243a71e4a6ae4d08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/HTTP 요청.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c07625fe2810448",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +144,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c07625fe2810448",
+  "active": "243a71e4a6ae4d08",
   "lastOpenFiles": [
     "Python/Sort() && Sorted().md",
     "Node.js/JS_Methods/splice, slice.md",
