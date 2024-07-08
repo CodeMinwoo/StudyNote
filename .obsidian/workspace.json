@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b083a6a4fe113076",
+        "id": "3fb328b7784066f7",
         "type": "tabs",
         "children": [
           {
-            "id": "243a71e4a6ae4d08",
+            "id": "e43bd0ca1124520c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excalidraw/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/무제 파일.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,13 +139,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "243a71e4a6ae4d08",
+  "active": "e43bd0ca1124520c",
   "lastOpenFiles": [
+    "Excalidraw/무제 파일.md",
     "inline block element.md",
     "CSS/inline element.md",
     "CSS/무제 파일.md",
     "Excalidraw/Drawing 2024-07-08 11.02.17.excalidraw.md",
-    "Excalidraw/무제 파일.md",
     "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
     "Node.js/얕은 복사(shallow copy).md",
     "무제 파일.md",
