@@ -11,8 +11,12 @@
             "id": "e43bd0ca1124520c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSS/mx-auto.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS/mx-auto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSS/mx-auto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSS/mx-auto.md"
+              }
             }
           }
         ]
@@ -141,9 +149,11 @@
   },
   "active": "e43bd0ca1124520c",
   "lastOpenFiles": [
+    "CSS/div 의 width.md",
+    "CSS/mx-auto.md",
+    "CSS/inline element.md",
     "Excalidraw/무제 파일.md",
     "inline block element.md",
-    "CSS/inline element.md",
     "CSS/무제 파일.md",
     "Excalidraw/Drawing 2024-07-08 11.02.17.excalidraw.md",
     "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
@@ -151,7 +161,6 @@
     "무제 파일.md",
     "145280739.jpeg",
     "CSS/%.md",
-    "CSS/div 의 width.md",
     "CSS/em.md",
     "CSS/무제 폴더",
     "CSS",
@@ -169,7 +178,6 @@
     "자바스크립트 오류 노트/map, forEach 메소드 문자열에 사용.md",
     "자료구조/Hash Function 해시 함수.md",
     "자료구조/Array 배열의 자료구조.md",
-    "자료구조/Abstract Data Type 추상적 자료구조.md",
     "타입스크립트",
     "자바스크립트 오류 노트",
     "Flex 핵심정리",
