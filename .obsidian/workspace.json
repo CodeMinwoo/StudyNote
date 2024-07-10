@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/background-image 와 img 태그.md",
+                "file": "CSS/요소를 안보이게 하는 3가지 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/background-image 와 img 태그.md",
+                "file": "CSS/요소를 안보이게 하는 3가지 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/background-image 와 img 태그.md",
+                "file": "CSS/요소를 안보이게 하는 3가지 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/background-image 와 img 태그.md"
+                "file": "CSS/요소를 안보이게 하는 3가지 방법.md"
               }
             }
           }
@@ -149,11 +149,13 @@
   },
   "active": "e43bd0ca1124520c",
   "lastOpenFiles": [
+    "CSS/object-cover 와 w-full h-full 의 차이점.md",
+    "CSS/요소를 안보이게 하는 3가지 방법.md",
+    "CSS/background-image 와 img 태그.md",
     "CSS/em.md",
     "CSS/inline element.md",
     "CSS/mx-auto.md",
     "CSS/Next.js 의 Image 컴포넌트와 img 태그의 차이점.md",
-    "CSS/background-image 와 img 태그.md",
     "2024-07-10.md",
     "inline block element.md",
     "CSS/div 의 width.md",
@@ -176,8 +178,6 @@
     "자바스크립트 오류 노트/대소문자 변환은 기존 배열을 바꾸지 않는다.md",
     "자바스크립트 오류 노트/split 메소드는 기존 문자열 변수를 바꾸지 않는다.md",
     "자바스크립트 오류 노트/배열 인덱스에 음수값을 넣으면.md",
-    "자바스크립트 오류 노트/div 박스를 인라인- 박스로 바꾸는 css 속성.md",
-    "자바스크립트 오류 노트/indexOf 메소드 는 일치하는 여러개의 요소를 반환하나?.md",
     "타입스크립트",
     "자바스크립트 오류 노트",
     "Flex 핵심정리",
