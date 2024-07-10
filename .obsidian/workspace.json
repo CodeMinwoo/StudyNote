@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/mx-auto.md",
+                "file": "CSS/inline element.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "886926e292d34405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inline block element.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/mx-auto.md",
+                "file": "inline block element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/mx-auto.md",
+                "file": "inline block element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/mx-auto.md"
+                "file": "inline block element.md"
               }
             }
           }
@@ -147,11 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e43bd0ca1124520c",
+  "active": "886926e292d34405",
   "lastOpenFiles": [
-    "CSS/div 의 width.md",
-    "CSS/mx-auto.md",
     "CSS/inline element.md",
+    "CSS/mx-auto.md",
+    "CSS/div 의 width.md",
     "Excalidraw/무제 파일.md",
     "inline block element.md",
     "CSS/무제 파일.md",
