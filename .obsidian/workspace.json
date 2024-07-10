@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3fb328b7784066f7",
+        "id": "2c3bd5f7c42a0fbb",
         "type": "tabs",
         "children": [
           {
-            "id": "e43bd0ca1124520c",
+            "id": "e716109aa3008d98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/요소를 안보이게 하는 3가지 방법.md",
+                "file": "CSS/요소의 가운데 정렬 원리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/요소를 안보이게 하는 3가지 방법.md",
+                "file": "CSS/요소의 가운데 정렬 원리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/요소를 안보이게 하는 3가지 방법.md",
+                "file": "CSS/요소의 가운데 정렬 원리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/요소를 안보이게 하는 3가지 방법.md"
+                "file": "CSS/요소의 가운데 정렬 원리.md"
               }
             }
           }
@@ -147,22 +147,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e43bd0ca1124520c",
+  "active": "e716109aa3008d98",
   "lastOpenFiles": [
-    "CSS/object-cover 와 w-full h-full 의 차이점.md",
+    "CSS/요소의 가운데 정렬 원리.md",
+    "Excalidraw/Drawing 2024-07-10 17.42.44.excalidraw.md",
+    "CSS/inline block element.md",
+    "2024-07-10.md",
+    "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-08 11.02.17.excalidraw.md",
     "CSS/요소를 안보이게 하는 3가지 방법.md",
+    "Excalidraw/무제 파일.md",
+    "CSS/object-cover 와 w-full h-full 의 차이점.md",
     "CSS/background-image 와 img 태그.md",
     "CSS/em.md",
     "CSS/inline element.md",
     "CSS/mx-auto.md",
     "CSS/Next.js 의 Image 컴포넌트와 img 태그의 차이점.md",
-    "2024-07-10.md",
-    "inline block element.md",
     "CSS/div 의 width.md",
-    "Excalidraw/무제 파일.md",
     "CSS/무제 파일.md",
-    "Excalidraw/Drawing 2024-07-08 11.02.17.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
     "Node.js/얕은 복사(shallow copy).md",
     "무제 파일.md",
     "145280739.jpeg",
@@ -176,8 +178,6 @@
     "자바스크립트 오류 노트/str.indexOf('q'  ㅣㅣ 'Q') 가 되나?.md",
     "자바스크립트 오류 노트/문자열 전체에 대해서 toLowerCase가 되나?.md",
     "자바스크립트 오류 노트/대소문자 변환은 기존 배열을 바꾸지 않는다.md",
-    "자바스크립트 오류 노트/split 메소드는 기존 문자열 변수를 바꾸지 않는다.md",
-    "자바스크립트 오류 노트/배열 인덱스에 음수값을 넣으면.md",
     "타입스크립트",
     "자바스크립트 오류 노트",
     "Flex 핵심정리",
