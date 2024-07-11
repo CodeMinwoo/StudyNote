@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/select 태그.md",
+                "file": "CSS/before & after.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/select 태그.md",
+                "file": "CSS/before & after.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/select 태그.md",
+                "file": "CSS/before & after.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/select 태그.md"
+                "file": "CSS/before & after.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "e716109aa3008d98",
   "lastOpenFiles": [
-    "CSS/요소의 가운데 정렬 원리.md",
     "CSS/select 태그.md",
+    "CSS/before & after.md",
+    "CSS/요소의 가운데 정렬 원리.md",
     "Excalidraw/Drawing 2024-07-10 17.42.44.excalidraw.md",
     "CSS/inline block element.md",
     "2024-07-10.md",
@@ -177,7 +178,6 @@
     "Node.js/JS_Methods/replace, replaceAll 메소드.md",
     "자바스크립트 오류 노트/splice 메소드 문자열에 사용.md",
     "자바스크립트 오류 노트/str.indexOf('q'  ㅣㅣ 'Q') 가 되나?.md",
-    "자바스크립트 오류 노트/문자열 전체에 대해서 toLowerCase가 되나?.md",
     "타입스크립트",
     "자바스크립트 오류 노트",
     "Flex 핵심정리",
