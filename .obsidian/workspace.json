@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/이벤트 버블링과 focus.md",
+                "file": "Nest.js/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/이벤트 버블링과 focus.md",
+                "file": "Nest.js/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/이벤트 버블링과 focus.md",
+                "file": "Nest.js/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/이벤트 버블링과 focus.md"
+                "file": "Nest.js/무제 파일.md"
               }
             }
           }
@@ -151,6 +150,8 @@
   "active": "d9359d60ec0415bf",
   "lastOpenFiles": [
     "CSS/이벤트 버블링과 focus.md",
+    "Nest.js/무제 파일.md",
+    "Nest.js",
     "CSS/before & after.md",
     "CSS/select 태그.md",
     "CSS/요소의 가운데 정렬 원리.md",
@@ -178,14 +179,12 @@
     "Python/Sort() && Sorted().md",
     "Node.js/JS_Methods/splice, slice.md",
     "Node.js/JS_Methods/replace, replaceAll 메소드.md",
-    "자바스크립트 오류 노트/splice 메소드 문자열에 사용.md",
     "타입스크립트",
     "자바스크립트 오류 노트",
     "Flex 핵심정리",
     "Excalidraw/NanumGiBbeumBarkEum.ttf",
     "Excalidraw/NanumNaNeunIGyeoNaenDa.ttf",
     "Excalidraw/cmd.sh",
-    "Excalidraw",
-    "정처기_C언어"
+    "Excalidraw"
   ]
 }
