@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c3bd5f7c42a0fbb",
+        "id": "0075f3187862d45a",
         "type": "tabs",
         "children": [
           {
-            "id": "e716109aa3008d98",
+            "id": "d9359d60ec0415bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/before & after.md",
+                "file": "CSS/이벤트 버블링과 focus.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "focus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/before & after.md",
+                "file": "CSS/이벤트 버블링과 focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/before & after.md",
+                "file": "CSS/이벤트 버블링과 focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/before & after.md"
+                "file": "CSS/이벤트 버블링과 focus.md"
               }
             }
           }
@@ -147,10 +148,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e716109aa3008d98",
+  "active": "d9359d60ec0415bf",
   "lastOpenFiles": [
-    "CSS/select 태그.md",
+    "CSS/이벤트 버블링과 focus.md",
     "CSS/before & after.md",
+    "CSS/select 태그.md",
     "CSS/요소의 가운데 정렬 원리.md",
     "Excalidraw/Drawing 2024-07-10 17.42.44.excalidraw.md",
     "CSS/inline block element.md",
@@ -177,7 +179,6 @@
     "Node.js/JS_Methods/splice, slice.md",
     "Node.js/JS_Methods/replace, replaceAll 메소드.md",
     "자바스크립트 오류 노트/splice 메소드 문자열에 사용.md",
-    "자바스크립트 오류 노트/str.indexOf('q'  ㅣㅣ 'Q') 가 되나?.md",
     "타입스크립트",
     "자바스크립트 오류 노트",
     "Flex 핵심정리",
