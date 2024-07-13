@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/async await 과 이벤트 루프.md",
+                "file": "Node.js/호출 스택 ( Call Stack ).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/async await 과 이벤트 루프.md",
+                "file": "Node.js/호출 스택 ( Call Stack ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/async await 과 이벤트 루프.md",
+                "file": "Node.js/호출 스택 ( Call Stack ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/async await 과 이벤트 루프.md"
+                "file": "Node.js/호출 스택 ( Call Stack ).md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "77f19b41ccfcbbd1",
   "lastOpenFiles": [
-    "Node.js/async await 과 then catch 정리 코드.md",
     "Node.js/async await 과 이벤트 루프.md",
+    "Node.js/호출 스택 ( Call Stack ).md",
+    "Node.js/async await 과 then catch 정리 코드.md",
     "Node.js/fetch보다 axios를 쓰는 이유.md",
     "Nest.js/무제 파일.md",
     "CSS/이벤트 버블링과 focus.md",
@@ -176,7 +177,6 @@
     "Node.js/얕은 복사(shallow copy).md",
     "무제 파일.md",
     "145280739.jpeg",
-    "CSS/%.md",
     "CSS/무제 폴더",
     "CSS",
     "타입스크립트",
