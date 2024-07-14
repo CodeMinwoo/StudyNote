@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "337435f2f2db6273",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/호출 스택 ( Call Stack ).md",
+                "file": "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/호출 스택 ( Call Stack ).md",
+                "file": "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/호출 스택 ( Call Stack ).md"
+                "file": "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md"
               }
             }
           }
@@ -147,10 +158,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77f19b41ccfcbbd1",
+  "active": "337435f2f2db6273",
   "lastOpenFiles": [
-    "Node.js/async await 과 이벤트 루프.md",
     "Node.js/호출 스택 ( Call Stack ).md",
+    "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md",
+    "Node.js/async await 과 이벤트 루프.md",
     "Node.js/async await 과 then catch 정리 코드.md",
     "Node.js/fetch보다 axios를 쓰는 이유.md",
     "Nest.js/무제 파일.md",
@@ -175,7 +187,6 @@
     "CSS/div 의 width.md",
     "CSS/무제 파일.md",
     "Node.js/얕은 복사(shallow copy).md",
-    "무제 파일.md",
     "145280739.jpeg",
     "CSS/무제 폴더",
     "CSS",
