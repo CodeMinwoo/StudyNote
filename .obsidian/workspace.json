@@ -23,9 +23,11 @@
             "id": "337435f2f2db6273",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md"
+                "file": "디자인패턴/싱글톤.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md",
+                "file": "디자인패턴/싱글톤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md",
+                "file": "디자인패턴/싱글톤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md"
+                "file": "디자인패턴/싱글톤.md"
               }
             }
           }
@@ -160,8 +162,11 @@
   },
   "active": "337435f2f2db6273",
   "lastOpenFiles": [
-    "Node.js/호출 스택 ( Call Stack ).md",
     "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md",
+    "디자인패턴/싱글톤.md",
+    "디자인패턴",
+    "자료구조/무제 폴더",
+    "Node.js/호출 스택 ( Call Stack ).md",
     "Node.js/async await 과 이벤트 루프.md",
     "Node.js/async await 과 then catch 정리 코드.md",
     "Node.js/fetch보다 axios를 쓰는 이유.md",
@@ -186,7 +191,6 @@
     "CSS/Next.js 의 Image 컴포넌트와 img 태그의 차이점.md",
     "CSS/div 의 width.md",
     "CSS/무제 파일.md",
-    "Node.js/얕은 복사(shallow copy).md",
     "145280739.jpeg",
     "CSS/무제 폴더",
     "CSS",
@@ -194,8 +198,6 @@
     "자바스크립트 오류 노트",
     "Flex 핵심정리",
     "Excalidraw/NanumGiBbeumBarkEum.ttf",
-    "Excalidraw/NanumNaNeunIGyeoNaenDa.ttf",
-    "Excalidraw/cmd.sh",
-    "Excalidraw"
+    "Excalidraw/NanumNaNeunIGyeoNaenDa.ttf"
   ]
 }
