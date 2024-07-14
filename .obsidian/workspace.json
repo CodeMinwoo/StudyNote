@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인패턴/싱글톤.md",
+                "file": "Node.js/static 변수.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인패턴/싱글톤.md",
+                "file": "Node.js/static 변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인패턴/싱글톤.md",
+                "file": "Node.js/static 변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인패턴/싱글톤.md"
+                "file": "Node.js/static 변수.md"
               }
             }
           }
@@ -160,10 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "337435f2f2db6273",
+  "active": "844691cc50999ee9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md",
     "디자인패턴/싱글톤.md",
+    "Node.js/static 변수.md",
+    "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md",
     "디자인패턴",
     "자료구조/무제 폴더",
     "Node.js/호출 스택 ( Call Stack ).md",
@@ -190,7 +191,6 @@
     "CSS/mx-auto.md",
     "CSS/Next.js 의 Image 컴포넌트와 img 태그의 차이점.md",
     "CSS/div 의 width.md",
-    "CSS/무제 파일.md",
     "145280739.jpeg",
     "CSS/무제 폴더",
     "CSS",
