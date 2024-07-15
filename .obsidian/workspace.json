@@ -11,8 +11,12 @@
             "id": "9dba35cda8473f12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSS/flex-none.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS/flex-none.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSS/flex-none.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSS/flex-none.md"
+              }
             }
           }
         ]
@@ -141,6 +149,9 @@
   },
   "active": "9dba35cda8473f12",
   "lastOpenFiles": [
+    "CSS/mx-auto.md",
+    "CSS/무제 파일.md",
+    "CSS/flex-none.md",
     "Node.js/호출 스택 ( Call Stack ).md",
     "Node.js/static 변수.md",
     "디자인패턴/싱글톤.md",
@@ -167,9 +178,6 @@
     "CSS/background-image 와 img 태그.md",
     "CSS/em.md",
     "CSS/inline element.md",
-    "CSS/mx-auto.md",
-    "CSS/Next.js 의 Image 컴포넌트와 img 태그의 차이점.md",
-    "CSS/div 의 width.md",
     "145280739.jpeg",
     "CSS/무제 폴더",
     "CSS",
