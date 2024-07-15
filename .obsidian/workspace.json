@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "af0816723181644b",
+        "id": "56a82e027ef9b7a6",
         "type": "tabs",
         "children": [
           {
-            "id": "77f19b41ccfcbbd1",
+            "id": "9dba35cda8473f12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/호출 스택 ( Call Stack ).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "337435f2f2db6273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/static 변수.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/static 변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/static 변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Node.js/static 변수.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,14 +139,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "844691cc50999ee9",
+  "active": "9dba35cda8473f12",
   "lastOpenFiles": [
-    "디자인패턴/싱글톤.md",
+    "Node.js/호출 스택 ( Call Stack ).md",
     "Node.js/static 변수.md",
+    "디자인패턴/싱글톤.md",
     "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md",
     "디자인패턴",
     "자료구조/무제 폴더",
-    "Node.js/호출 스택 ( Call Stack ).md",
     "Node.js/async await 과 이벤트 루프.md",
     "Node.js/async await 과 then catch 정리 코드.md",
     "Node.js/fetch보다 axios를 쓰는 이유.md",
