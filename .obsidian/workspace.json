@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/flex-none.md",
+                "file": "Nest.js/의존성 주입.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/flex-none.md",
+                "file": "Nest.js/의존성 주입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/flex-none.md",
+                "file": "Nest.js/의존성 주입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/flex-none.md"
+                "file": "Nest.js/의존성 주입.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "9dba35cda8473f12",
   "lastOpenFiles": [
+    "CSS/em.md",
+    "CSS/flex-none.md",
     "CSS/mx-auto.md",
     "CSS/무제 파일.md",
-    "CSS/flex-none.md",
     "Node.js/호출 스택 ( Call Stack ).md",
     "Node.js/static 변수.md",
     "디자인패턴/싱글톤.md",
@@ -161,7 +162,7 @@
     "Node.js/async await 과 이벤트 루프.md",
     "Node.js/async await 과 then catch 정리 코드.md",
     "Node.js/fetch보다 axios를 쓰는 이유.md",
-    "Nest.js/무제 파일.md",
+    "Nest.js/의존성 주입.md",
     "CSS/이벤트 버블링과 focus.md",
     "Nest.js",
     "CSS/before & after.md",
@@ -176,7 +177,6 @@
     "Excalidraw/무제 파일.md",
     "CSS/object-cover 와 w-full h-full 의 차이점.md",
     "CSS/background-image 와 img 태그.md",
-    "CSS/em.md",
     "CSS/inline element.md",
     "145280739.jpeg",
     "CSS/무제 폴더",
