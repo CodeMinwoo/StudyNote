@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "제어의 역전 ( Inversion of Control ).md",
+                "file": "Nest.js/DI 설정하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제어의 역전 ( Inversion of Control ).md",
+                "file": "Nest.js/DI 설정하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제어의 역전 ( Inversion of Control ).md",
+                "file": "Nest.js/DI 설정하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제어의 역전 ( Inversion of Control ).md"
+                "file": "Nest.js/DI 설정하기.md"
               }
             }
           }
@@ -175,8 +175,9 @@
   "active": "c600b34a89126f95",
   "lastOpenFiles": [
     "Nest.js/의존성 주입.md",
-    "제어의 역전 ( Inversion of Control.md",
+    "Nest.js/DI 설정하기.md",
     "제어의 역전 ( Inversion of Control ).md",
+    "제어의 역전 ( Inversion of Control.md",
     "CSS/flex-basis.md",
     "CSS/em.md",
     "CSS/flex-none.md",
@@ -202,7 +203,6 @@
     "Excalidraw/Drawing 2024-07-08 11.02.17.excalidraw.md",
     "CSS/요소를 안보이게 하는 3가지 방법.md",
     "Excalidraw/무제 파일.md",
-    "CSS/object-cover 와 w-full h-full 의 차이점.md",
     "145280739.jpeg",
     "CSS/무제 폴더",
     "CSS",
