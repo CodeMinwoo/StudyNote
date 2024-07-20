@@ -5,6 +5,11 @@
 
 코드의 양이 늘어난다
 
+![](https://i.imgur.com/C7Fp2lb.png)
+
+
 #### 보완책
 
 DI Container ( dependency Injection) 를 통해서 의존성, 생성된 인스턴스들을 관리한다.
+
+![](https://i.imgur.com/vUepPqq.png)
