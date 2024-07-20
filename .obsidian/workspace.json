@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c600b34a89126f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제어의 역전 ( Inversion of Control ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf4b11cf97d2c05c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제어의 역전 ( Inversion of Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nest.js/의존성 주입.md",
+                "file": "제어의 역전 ( Inversion of Control ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nest.js/의존성 주입.md",
+                "file": "제어의 역전 ( Inversion of Control ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nest.js/의존성 주입.md"
+                "file": "제어의 역전 ( Inversion of Control ).md"
               }
             }
           }
@@ -147,10 +172,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34c95bcbe121267e",
+  "active": "c600b34a89126f95",
   "lastOpenFiles": [
-    "제어의 역전 ( Inversion of Control.md",
     "Nest.js/의존성 주입.md",
+    "제어의 역전 ( Inversion of Control.md",
     "제어의 역전 ( Inversion of Control ).md",
     "CSS/flex-basis.md",
     "CSS/em.md",
