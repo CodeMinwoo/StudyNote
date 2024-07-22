@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "679fda8ddc66fc31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node.js/static 변수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cf4b11cf97d2c05c",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인패턴/싱글톤.md",
+                "file": "Node.js/static 변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인패턴/싱글톤.md",
+                "file": "Node.js/static 변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인패턴/싱글톤.md"
+                "file": "Node.js/static 변수.md"
               }
             }
           }
@@ -159,8 +172,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34c95bcbe121267e",
+  "active": "679fda8ddc66fc31",
   "lastOpenFiles": [
+    "디자인패턴/싱글톤.md",
     "Nest.js/의존성 주입.md",
     "Node.js/JS_Methods/replace, replaceAll 메소드.md",
     "Nest.js/DI 설정하기.md",
@@ -172,7 +186,6 @@
     "CSS/mx-auto.md",
     "Node.js/호출 스택 ( Call Stack ).md",
     "Node.js/static 변수.md",
-    "디자인패턴/싱글톤.md",
     "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md",
     "디자인패턴",
     "자료구조/무제 폴더",
