@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlockchainValley/커리큘럼.md",
+                "file": "React&&Next/리액트 Hooks/useState.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BlockchainValley/커리큘럼.md",
+                "file": "React&&Next/리액트 Hooks/useState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BlockchainValley/커리큘럼.md",
+                "file": "React&&Next/리액트 Hooks/useState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BlockchainValley/커리큘럼.md"
+                "file": "React&&Next/리액트 Hooks/useState.md"
               }
             }
           }
@@ -150,6 +150,9 @@
   "active": "735bb1ca087e2f12",
   "lastOpenFiles": [
     "BlockchainValley/커리큘럼.md",
+    "React&&Next/리액트 Hooks/useState.md",
+    "React&&Next/리액트 Hooks",
+    "React&&Next",
     "BlockchainValley",
     "디자인패턴/싱글톤.md",
     "Nest.js/제어의 역전 ( Inversion of Control ).md",
@@ -178,13 +181,10 @@
     "CSS/inline block element.md",
     "2024-07-10.md",
     "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-08 11.02.17.excalidraw.md",
     "145280739.jpeg",
     "CSS/무제 폴더",
     "CSS",
     "타입스크립트",
-    "자바스크립트 오류 노트",
-    "Flex 핵심정리",
-    "Excalidraw/NanumGiBbeumBarkEum.ttf"
+    "자바스크립트 오류 노트"
   ]
 }
