@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e752473f23dba9c3",
+        "id": "064778b6f0838d43",
         "type": "tabs",
         "children": [
           {
-            "id": "34c95bcbe121267e",
+            "id": "735bb1ca087e2f12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인패턴/싱글톤.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "679fda8ddc66fc31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/static 변수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf4b11cf97d2c05c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제어의 역전 ( Inversion of Control.md",
+                "file": "BlockchainValley/커리큘럼.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/static 변수.md",
+                "file": "BlockchainValley/커리큘럼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/static 변수.md",
+                "file": "BlockchainValley/커리큘럼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/static 변수.md"
+                "file": "BlockchainValley/커리큘럼.md"
               }
             }
           }
@@ -172,20 +147,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "679fda8ddc66fc31",
+  "active": "735bb1ca087e2f12",
   "lastOpenFiles": [
+    "BlockchainValley/커리큘럼.md",
+    "BlockchainValley",
     "디자인패턴/싱글톤.md",
+    "Nest.js/제어의 역전 ( Inversion of Control ).md",
+    "제어의 역전 ( Inversion of Control.md",
+    "Node.js/static 변수.md",
     "Nest.js/의존성 주입.md",
     "Node.js/JS_Methods/replace, replaceAll 메소드.md",
     "Nest.js/DI 설정하기.md",
-    "제어의 역전 ( Inversion of Control ).md",
-    "제어의 역전 ( Inversion of Control.md",
     "CSS/flex-basis.md",
     "CSS/em.md",
     "CSS/flex-none.md",
     "CSS/mx-auto.md",
     "Node.js/호출 스택 ( Call Stack ).md",
-    "Node.js/static 변수.md",
     "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md",
     "디자인패턴",
     "자료구조/무제 폴더",
@@ -202,14 +179,12 @@
     "2024-07-10.md",
     "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
     "Excalidraw/Drawing 2024-07-08 11.02.17.excalidraw.md",
-    "CSS/요소를 안보이게 하는 3가지 방법.md",
     "145280739.jpeg",
     "CSS/무제 폴더",
     "CSS",
     "타입스크립트",
     "자바스크립트 오류 노트",
     "Flex 핵심정리",
-    "Excalidraw/NanumGiBbeumBarkEum.ttf",
-    "Excalidraw/NanumNaNeunIGyeoNaenDa.ttf"
+    "Excalidraw/NanumGiBbeumBarkEum.ttf"
   ]
 }
