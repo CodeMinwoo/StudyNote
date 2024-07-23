@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "064778b6f0838d43",
+        "id": "7ca10cc7a486c385",
         "type": "tabs",
         "children": [
           {
-            "id": "735bb1ca087e2f12",
+            "id": "955ebe2440571f4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React&&Next/리액트 Hooks/useState.md",
+                "file": "React&&Next/상태 그리고 변수.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React&&Next/리액트 Hooks/useState.md",
+                "file": "React&&Next/상태 그리고 변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React&&Next/리액트 Hooks/useState.md",
+                "file": "React&&Next/상태 그리고 변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React&&Next/리액트 Hooks/useState.md"
+                "file": "React&&Next/상태 그리고 변수.md"
               }
             }
           }
@@ -147,10 +147,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735bb1ca087e2f12",
+  "active": "844691cc50999ee9",
   "lastOpenFiles": [
-    "BlockchainValley/커리큘럼.md",
+    "React&&Next/리액트 Hooks/Hooks 의 개념.md",
+    "React&&Next/리액트의 렌더링 방식.md",
+    "React&&Next/상태 그리고 변수.md",
     "React&&Next/리액트 Hooks/useState.md",
+    "React&&Next/리액트 Hooks/React.memo().md",
+    "BlockchainValley/커리큘럼.md",
     "React&&Next/리액트 Hooks",
     "React&&Next",
     "BlockchainValley",
@@ -177,10 +181,6 @@
     "CSS/before & after.md",
     "CSS/select 태그.md",
     "CSS/요소의 가운데 정렬 원리.md",
-    "Excalidraw/Drawing 2024-07-10 17.42.44.excalidraw.md",
-    "CSS/inline block element.md",
-    "2024-07-10.md",
-    "Excalidraw/Drawing 2024-02-06 16.21.37.excalidraw.md",
     "145280739.jpeg",
     "CSS/무제 폴더",
     "CSS",
