@@ -11,8 +11,12 @@
             "id": "e09d7b5d901f755c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GoLang/main.go.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GoLang/main.go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GoLang/main.go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GoLang/main.go.md"
+              }
             }
           }
         ]
@@ -141,6 +149,8 @@
   },
   "active": "e09d7b5d901f755c",
   "lastOpenFiles": [
+    "GoLang/go build 명령어.md",
+    "GoLang/main.go.md",
     "React&&Next/리액트 Hooks/useState.md",
     "GoLang/library(라이브러리) , package(패키지).md",
     "React&&Next/생명 주기.md",
@@ -170,8 +180,6 @@
     "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md",
     "디자인패턴",
     "자료구조/무제 폴더",
-    "Node.js/async await 과 이벤트 루프.md",
-    "Node.js/async await 과 then catch 정리 코드.md",
     "Nest.js",
     "145280739.jpeg",
     "CSS/무제 폴더",
