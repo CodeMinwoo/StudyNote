@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/main.go.md",
+                "file": "GoLang/go build 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoLang/main.go.md",
+                "file": "GoLang/go build 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoLang/main.go.md",
+                "file": "GoLang/go build 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoLang/main.go.md"
+                "file": "GoLang/go build 명령어.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "e09d7b5d901f755c",
   "lastOpenFiles": [
-    "GoLang/go build 명령어.md",
-    "GoLang/main.go.md",
-    "React&&Next/리액트 Hooks/useState.md",
+    "GoLang/go run 명령어.md",
     "GoLang/library(라이브러리) , package(패키지).md",
+    "GoLang/main.go.md",
+    "GoLang/go build 명령어.md",
+    "React&&Next/리액트 Hooks/useState.md",
     "React&&Next/생명 주기.md",
     "Node.js/Closure 클로저.md",
     "Node.js/Liexical_Scope 렉시컬 스코프.md",
@@ -177,7 +178,6 @@
     "CSS/flex-none.md",
     "CSS/mx-auto.md",
     "Node.js/호출 스택 ( Call Stack ).md",
-    "Excalidraw/Drawing 2024-07-14 09.04.44.excalidraw.md",
     "디자인패턴",
     "자료구조/무제 폴더",
     "Nest.js",
