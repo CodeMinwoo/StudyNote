@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/go build 명령어.md",
+                "file": "GoLang/main.go.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoLang/go build 명령어.md",
+                "file": "GoLang/main.go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoLang/go build 명령어.md",
+                "file": "GoLang/main.go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoLang/go build 명령어.md"
+                "file": "GoLang/main.go.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "e09d7b5d901f755c",
   "lastOpenFiles": [
+    "GoLang/go build 명령어.md",
     "GoLang/go run 명령어.md",
     "GoLang/library(라이브러리) , package(패키지).md",
     "GoLang/main.go.md",
-    "GoLang/go build 명령어.md",
     "React&&Next/리액트 Hooks/useState.md",
     "React&&Next/생명 주기.md",
     "Node.js/Closure 클로저.md",
