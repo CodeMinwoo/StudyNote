@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a1192eb935a8eade",
+        "id": "c4f897bdb5dd7000",
         "type": "tabs",
         "children": [
           {
-            "id": "e09d7b5d901f755c",
+            "id": "2b5624ca914bc24b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/main.go.md",
+                "file": "GoLang/go언어의 type 생략.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoLang/main.go.md",
+                "file": "GoLang/go언어의 type 생략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoLang/main.go.md",
+                "file": "GoLang/go언어의 type 생략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoLang/main.go.md"
+                "file": "GoLang/go언어의 type 생략.md"
               }
             }
           }
@@ -147,12 +147,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e09d7b5d901f755c",
+  "active": "2b5624ca914bc24b",
   "lastOpenFiles": [
+    "GoLang/go언어의 type 생략.md",
+    "GoLang/library(라이브러리) , package(패키지).md",
+    "GoLang/package(패키지).md",
+    "GoLang/Go언어의 import / export.md",
+    "GoLang/Go언어의 import ",
+    "GoLang/대소문자.md",
+    "GoLang/main.go.md",
     "GoLang/go build 명령어.md",
     "GoLang/go run 명령어.md",
-    "GoLang/library(라이브러리) , package(패키지).md",
-    "GoLang/main.go.md",
     "React&&Next/리액트 Hooks/useState.md",
     "React&&Next/생명 주기.md",
     "Node.js/Closure 클로저.md",
@@ -174,17 +179,12 @@
     "Node.js/JS_Methods/replace, replaceAll 메소드.md",
     "Nest.js/DI 설정하기.md",
     "CSS/flex-basis.md",
-    "CSS/em.md",
-    "CSS/flex-none.md",
-    "CSS/mx-auto.md",
-    "Node.js/호출 스택 ( Call Stack ).md",
     "디자인패턴",
     "자료구조/무제 폴더",
     "Nest.js",
     "145280739.jpeg",
     "CSS/무제 폴더",
     "CSS",
-    "타입스크립트",
-    "자바스크립트 오류 노트"
+    "타입스크립트"
   ]
 }
