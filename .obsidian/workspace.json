@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/go언어의 type 생략.md",
+                "file": "Node.js/npm start 와 npm run start.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoLang/go언어의 type 생략.md",
+                "file": "Node.js/npm start 와 npm run start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoLang/go언어의 type 생략.md",
+                "file": "Node.js/npm start 와 npm run start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoLang/go언어의 type 생략.md"
+                "file": "Node.js/npm start 와 npm run start.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "2b5624ca914bc24b",
   "lastOpenFiles": [
     "GoLang/go언어의 type 생략.md",
+    "Node.js/npm start 와 npm run start.md",
     "GoLang/library(라이브러리) , package(패키지).md",
     "GoLang/package(패키지).md",
     "GoLang/Go언어의 import / export.md",
@@ -178,7 +179,6 @@
     "Nest.js/의존성 주입.md",
     "Node.js/JS_Methods/replace, replaceAll 메소드.md",
     "Nest.js/DI 설정하기.md",
-    "CSS/flex-basis.md",
     "디자인패턴",
     "자료구조/무제 폴더",
     "Nest.js",
