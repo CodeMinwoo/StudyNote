@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/flex-none.md",
+                "file": "CSS/align-items.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/flex-none.md",
+                "file": "CSS/align-items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/flex-none.md",
+                "file": "CSS/align-items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/flex-none.md"
+                "file": "CSS/align-items.md"
               }
             }
           }
@@ -150,6 +149,8 @@
   },
   "active": "2b5624ca914bc24b",
   "lastOpenFiles": [
+    "CSS/align-items.md",
+    "CSS/flex-none.md",
     "React&&Next/리액트 Hooks/Hooks 의 개념.md",
     "Node.js/npm start 와 npm run start.md",
     "GoLang/go언어의 type 생략.md",
@@ -178,8 +179,6 @@
     "제어의 역전 ( Inversion of Control.md",
     "Node.js/static 변수.md",
     "Nest.js/의존성 주입.md",
-    "Node.js/JS_Methods/replace, replaceAll 메소드.md",
-    "Nest.js/DI 설정하기.md",
     "디자인패턴",
     "자료구조/무제 폴더",
     "Nest.js",
