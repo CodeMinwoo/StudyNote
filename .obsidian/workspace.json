@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React&&Next/리액트 Hooks/Hooks 의 개념.md",
+                "file": "CSS/flex-none.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "align",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React&&Next/리액트 Hooks/Hooks 의 개념.md",
+                "file": "CSS/flex-none.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React&&Next/리액트 Hooks/Hooks 의 개념.md",
+                "file": "CSS/flex-none.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React&&Next/리액트 Hooks/Hooks 의 개념.md"
+                "file": "CSS/flex-none.md"
               }
             }
           }
@@ -149,6 +150,7 @@
   },
   "active": "2b5624ca914bc24b",
   "lastOpenFiles": [
+    "React&&Next/리액트 Hooks/Hooks 의 개념.md",
     "Node.js/npm start 와 npm run start.md",
     "GoLang/go언어의 type 생략.md",
     "GoLang/library(라이브러리) , package(패키지).md",
@@ -164,7 +166,6 @@
     "Node.js/Closure 클로저.md",
     "Node.js/Liexical_Scope 렉시컬 스코프.md",
     "Node.js/동적 스코프.md",
-    "React&&Next/리액트 Hooks/Hooks 의 개념.md",
     "React&&Next/상태 그리고 변수.md",
     "React&&Next/리액트의 렌더링 방식.md",
     "React&&Next/리액트 Hooks/React.memo().md",
