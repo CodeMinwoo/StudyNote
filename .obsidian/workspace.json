@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/align-items.md",
+                "file": "CSS/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/align-items.md",
+                "file": "CSS/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/align-items.md",
+                "file": "CSS/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/align-items.md"
+                "file": "CSS/무제 파일.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   "active": "2b5624ca914bc24b",
   "lastOpenFiles": [
     "CSS/align-items.md",
+    "CSS/무제 파일.md",
+    "Pasted image 20240813015053.png",
     "CSS/flex-none.md",
     "React&&Next/리액트 Hooks/Hooks 의 개념.md",
     "Node.js/npm start 와 npm run start.md",
@@ -178,7 +180,6 @@
     "Nest.js/제어의 역전 ( Inversion of Control ).md",
     "제어의 역전 ( Inversion of Control.md",
     "Node.js/static 변수.md",
-    "Nest.js/의존성 주입.md",
     "디자인패턴",
     "자료구조/무제 폴더",
     "Nest.js",
