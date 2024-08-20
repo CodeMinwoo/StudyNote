@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/flex-none.md",
+                "file": "Node.js/NVM 버전 바꾸는 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/flex-none.md",
+                "file": "Node.js/NVM 버전 바꾸는 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/flex-none.md",
+                "file": "Node.js/NVM 버전 바꾸는 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/flex-none.md"
+                "file": "Node.js/NVM 버전 바꾸는 명령어.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "2b5624ca914bc24b",
   "lastOpenFiles": [
+    "CSS/flex-none.md",
+    "Node.js/NVM 버전 바꾸는 명령어.md",
     "CSS/justify-content.md",
     "Pasted image 20240813015130.png",
     "CSS/align-items.md",
     "Pasted image 20240813015053.png",
-    "CSS/flex-none.md",
     "React&&Next/리액트 Hooks/Hooks 의 개념.md",
     "Node.js/npm start 와 npm run start.md",
     "GoLang/go언어의 type 생략.md",
