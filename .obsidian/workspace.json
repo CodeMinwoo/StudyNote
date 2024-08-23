@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "align",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b5624ca914bc24b",
+  "active": "759d444acc2c9404",
   "lastOpenFiles": [
     "CSS/flex-none.md",
     "Node.js/NVM 버전 바꾸는 명령어.md",
