@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/요소의 가운데 정렬 원리.md",
+                "file": "CSS/테일윈드의 CSS 적용이 안될 때.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "정렬",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/요소의 가운데 정렬 원리.md",
+                "file": "CSS/테일윈드의 CSS 적용이 안될 때.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/요소의 가운데 정렬 원리.md",
+                "file": "CSS/테일윈드의 CSS 적용이 안될 때.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/요소의 가운데 정렬 원리.md"
+                "file": "CSS/테일윈드의 CSS 적용이 안될 때.md"
               }
             }
           }
@@ -150,6 +149,8 @@
   },
   "active": "2b5624ca914bc24b",
   "lastOpenFiles": [
+    "CSS/요소의 가운데 정렬 원리.md",
+    "CSS/테일윈드의 CSS 적용이 안될 때.md",
     "Node.js/NVM 버전 바꾸는 명령어.md",
     "CSS/flex-none.md",
     "CSS/justify-content.md",
@@ -180,8 +181,6 @@
     "React&&Next",
     "BlockchainValley",
     "디자인패턴/싱글톤.md",
-    "Nest.js/제어의 역전 ( Inversion of Control ).md",
-    "제어의 역전 ( Inversion of Control.md",
     "디자인패턴",
     "자료구조/무제 폴더",
     "Nest.js",
