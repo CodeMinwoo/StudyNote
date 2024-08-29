@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5cd9f3952f29c258",
+        "id": "a718f2ca78854c1e",
         "type": "tabs",
         "children": [
           {
-            "id": "b39a1466ea6fe63d",
+            "id": "96b96bb44c37aab7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js개발자되기/03장/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "파",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +144,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b39a1466ea6fe63d",
+  "active": "759d444acc2c9404",
   "lastOpenFiles": [
     "Pasted image 20240813015130.png",
     "Node.js개발자되기/03장/무제 파일.md",
