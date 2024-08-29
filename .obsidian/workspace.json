@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/%.md",
+                "file": "Node.js개발자되기/03장/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/%.md",
+                "file": "Node.js개발자되기/03장/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/%.md",
+                "file": "Node.js개발자되기/03장/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/%.md"
+                "file": "Node.js개발자되기/03장/무제 파일.md"
               }
             }
           }
@@ -149,14 +149,18 @@
   },
   "active": "b39a1466ea6fe63d",
   "lastOpenFiles": [
+    "Pasted image 20240813015130.png",
+    "Node.js개발자되기/03장/무제 파일.md",
+    "Node.js개발자되기/03장",
+    "Node.js개발자되기",
+    "Pasted image 20240813015053.png",
+    "CSS/%.md",
     "CSS/테일윈드의 CSS 적용이 안될 때.md",
     "CSS/요소의 가운데 정렬 원리.md",
     "Node.js/NVM 버전 바꾸는 명령어.md",
     "CSS/flex-none.md",
     "CSS/justify-content.md",
-    "Pasted image 20240813015130.png",
     "CSS/align-items.md",
-    "Pasted image 20240813015053.png",
     "React&&Next/리액트 Hooks/Hooks 의 개념.md",
     "Node.js/npm start 와 npm run start.md",
     "GoLang/go언어의 type 생략.md",
@@ -175,18 +179,13 @@
     "Node.js/동적 스코프.md",
     "React&&Next/상태 그리고 변수.md",
     "React&&Next/리액트의 렌더링 방식.md",
-    "React&&Next/리액트 Hooks/React.memo().md",
-    "BlockchainValley/커리큘럼.md",
     "React&&Next/리액트 Hooks",
     "React&&Next",
     "BlockchainValley",
-    "디자인패턴/싱글톤.md",
     "디자인패턴",
     "자료구조/무제 폴더",
     "Nest.js",
     "145280739.jpeg",
-    "CSS/무제 폴더",
-    "CSS",
-    "타입스크립트"
+    "CSS/무제 폴더"
   ]
 }
