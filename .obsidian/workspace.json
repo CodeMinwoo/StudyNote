@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c4f897bdb5dd7000",
+        "id": "5cd9f3952f29c258",
         "type": "tabs",
         "children": [
           {
-            "id": "2b5624ca914bc24b",
+            "id": "b39a1466ea6fe63d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/테일윈드의 CSS 적용이 안될 때.md",
+                "file": "CSS/%.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/테일윈드의 CSS 적용이 안될 때.md",
+                "file": "CSS/%.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/테일윈드의 CSS 적용이 안될 때.md",
+                "file": "CSS/%.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/테일윈드의 CSS 적용이 안될 때.md"
+                "file": "CSS/%.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b5624ca914bc24b",
+  "active": "b39a1466ea6fe63d",
   "lastOpenFiles": [
-    "CSS/요소의 가운데 정렬 원리.md",
     "CSS/테일윈드의 CSS 적용이 안될 때.md",
+    "CSS/요소의 가운데 정렬 원리.md",
     "Node.js/NVM 버전 바꾸는 명령어.md",
     "CSS/flex-none.md",
     "CSS/justify-content.md",
