@@ -11,8 +11,12 @@
             "id": "96b96bb44c37aab7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js개발자되기/03장/무제 파일.md",
+                "file": "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js개발자되기/03장/무제 파일.md",
+                "file": "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js개발자되기/03장/무제 파일.md"
+                "file": "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md"
               }
             }
           }
@@ -144,8 +147,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "759d444acc2c9404",
+  "active": "96b96bb44c37aab7",
   "lastOpenFiles": [
+    "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md",
     "Pasted image 20240813015130.png",
     "Node.js개발자되기/03장/무제 파일.md",
     "Node.js개발자되기/03장",
