@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md",
+                "file": "Node.js/일반적인 웹서버가 제공하는 기능.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md",
+                "file": "Node.js/일반적인 웹서버가 제공하는 기능.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md",
+                "file": "Node.js/일반적인 웹서버가 제공하는 기능.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md"
+                "file": "Node.js/일반적인 웹서버가 제공하는 기능.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "96b96bb44c37aab7",
   "lastOpenFiles": [
     "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md",
+    "Node.js/일반적인 웹서버가 제공하는 기능.md",
     "Pasted image 20240813015130.png",
     "Node.js개발자되기/03장/무제 파일.md",
     "Node.js개발자되기/03장",
@@ -179,7 +180,6 @@
     "Node.js/Liexical_Scope 렉시컬 스코프.md",
     "Node.js/동적 스코프.md",
     "React&&Next/상태 그리고 변수.md",
-    "React&&Next/리액트의 렌더링 방식.md",
     "React&&Next/리액트 Hooks",
     "React&&Next",
     "BlockchainValley",
