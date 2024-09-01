@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/일반적인 웹서버가 제공하는 기능.md",
+                "file": "Nest.js/MSA/예시 코드.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/일반적인 웹서버가 제공하는 기능.md",
+                "file": "Nest.js/MSA/예시 코드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js/일반적인 웹서버가 제공하는 기능.md",
+                "file": "Nest.js/MSA/예시 코드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/일반적인 웹서버가 제공하는 기능.md"
+                "file": "Nest.js/MSA/예시 코드.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "96b96bb44c37aab7",
   "lastOpenFiles": [
-    "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md",
     "Node.js/일반적인 웹서버가 제공하는 기능.md",
+    "Nest.js/MSA/예시 코드.md",
+    "Nest.js/MSA",
+    "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md",
     "Pasted image 20240813015130.png",
     "Node.js개발자되기/03장/무제 파일.md",
     "Node.js개발자되기/03장",
@@ -179,14 +181,12 @@
     "Node.js/Closure 클로저.md",
     "Node.js/Liexical_Scope 렉시컬 스코프.md",
     "Node.js/동적 스코프.md",
-    "React&&Next/상태 그리고 변수.md",
     "React&&Next/리액트 Hooks",
     "React&&Next",
     "BlockchainValley",
     "디자인패턴",
     "자료구조/무제 폴더",
     "Nest.js",
-    "145280739.jpeg",
-    "CSS/무제 폴더"
+    "145280739.jpeg"
   ]
 }
