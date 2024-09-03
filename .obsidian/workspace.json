@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nest.js/데코레이터/접근자 데커레이터.md",
+                "file": "Nest.js/데코레이터/속성 데커레이터.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nest.js/데코레이터/접근자 데커레이터.md",
+                "file": "Nest.js/데코레이터/속성 데커레이터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nest.js/데코레이터/접근자 데커레이터.md",
+                "file": "Nest.js/데코레이터/속성 데커레이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nest.js/데코레이터/접근자 데커레이터.md"
+                "file": "Nest.js/데코레이터/속성 데커레이터.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "96b96bb44c37aab7",
   "lastOpenFiles": [
+    "Nest.js/데코레이터/접근자 데커레이터.md",
+    "Nest.js/데코레이터/속성 데커레이터.md",
     "Nest.js/데코레이터/메서드 데커레이터.md",
     "Nest.js/데코레이터/클래스 데커레이터.md",
-    "Nest.js/데코레이터/접근자 데커레이터.md",
     "Nest.js/데코레이터",
     "Nest.js/MSA/예시 코드.md",
     "Node.js/일반적인 웹서버가 제공하는 기능.md",
@@ -181,7 +182,6 @@
     "GoLang/go build 명령어.md",
     "GoLang/go run 명령어.md",
     "React&&Next/리액트 Hooks/useState.md",
-    "React&&Next/생명 주기.md",
     "React&&Next/리액트 Hooks",
     "React&&Next",
     "BlockchainValley",
