@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nest.js/MSA/예시 코드.md",
+                "file": "Nest.js/클래스 데커레이터.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nest.js/MSA/예시 코드.md",
+                "file": "Nest.js/클래스 데커레이터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nest.js/MSA/예시 코드.md",
+                "file": "Nest.js/클래스 데커레이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nest.js/MSA/예시 코드.md"
+                "file": "Nest.js/클래스 데커레이터.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "96b96bb44c37aab7",
   "lastOpenFiles": [
-    "Node.js/일반적인 웹서버가 제공하는 기능.md",
     "Nest.js/MSA/예시 코드.md",
+    "Nest.js/클래스 데커레이터.md",
+    "Node.js/일반적인 웹서버가 제공하는 기능.md",
     "Nest.js/MSA",
     "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md",
     "Pasted image 20240813015130.png",
@@ -180,7 +181,6 @@
     "React&&Next/생명 주기.md",
     "Node.js/Closure 클로저.md",
     "Node.js/Liexical_Scope 렉시컬 스코프.md",
-    "Node.js/동적 스코프.md",
     "React&&Next/리액트 Hooks",
     "React&&Next",
     "BlockchainValley",
