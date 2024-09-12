@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코드팩토리-Nest.js/02-HTTP, REST API.md",
+                "file": "코드팩토리-Nest.js/03-폴더구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코드팩토리-Nest.js/02-HTTP, REST API.md",
+                "file": "코드팩토리-Nest.js/03-폴더구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코드팩토리-Nest.js/02-HTTP, REST API.md",
+                "file": "코드팩토리-Nest.js/03-폴더구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코드팩토리-Nest.js/02-HTTP, REST API.md"
+                "file": "코드팩토리-Nest.js/03-폴더구조.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "599e88185e90d71e",
   "lastOpenFiles": [
-    "코드팩토리-Nest.js/01-Nest.js 소개.md",
     "코드팩토리-Nest.js/02-HTTP, REST API.md",
+    "코드팩토리-Nest.js/03-폴더구조.md",
+    "코드팩토리-Nest.js/01-Nest.js 소개.md",
     "Nest.js/필터 ( Filter ).md",
     "코드팩토리-Nest.js",
     "Nest.js/데코레이터/매개변수 데커레이터.md",
@@ -182,7 +183,6 @@
     "GoLang/go언어의 type 생략.md",
     "GoLang/library(라이브러리) , package(패키지).md",
     "GoLang/package(패키지).md",
-    "GoLang/Go언어의 import / export.md",
     "GoLang/Go언어의 import ",
     "React&&Next/리액트 Hooks",
     "React&&Next",
