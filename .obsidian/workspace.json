@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a718f2ca78854c1e",
+        "id": "2e5661d9713f1e65",
         "type": "tabs",
         "children": [
           {
-            "id": "96b96bb44c37aab7",
+            "id": "599e88185e90d71e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nest.js/필터 ( Filter ).md",
+                "file": "코드팩토리-Nest.js/01-Nest.js 소개.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nest.js/필터 ( Filter ).md",
+                "file": "코드팩토리-Nest.js/01-Nest.js 소개.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nest.js/필터 ( Filter ).md",
+                "file": "코드팩토리-Nest.js/01-Nest.js 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nest.js/필터 ( Filter ).md"
+                "file": "코드팩토리-Nest.js/01-Nest.js 소개.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96b96bb44c37aab7",
+  "active": "599e88185e90d71e",
   "lastOpenFiles": [
-    "Nest.js/데코레이터/매개변수 데커레이터.md",
     "Nest.js/필터 ( Filter ).md",
+    "코드팩토리-Nest.js/01-Nest.js 소개.md",
+    "코드팩토리-Nest.js",
+    "Nest.js/데코레이터/매개변수 데커레이터.md",
     "Nest.js/데코레이터/클래스 데커레이터.md",
     "Nest.js/데코레이터/데코레이터 정리.md",
     "Nest.js/데코레이터/접근자 데커레이터.md",
@@ -182,11 +184,9 @@
     "GoLang/Go언어의 import / export.md",
     "GoLang/Go언어의 import ",
     "GoLang/대소문자.md",
-    "GoLang/main.go.md",
     "React&&Next/리액트 Hooks",
     "React&&Next",
     "BlockchainValley",
-    "디자인패턴",
     "145280739.jpeg"
   ]
 }
