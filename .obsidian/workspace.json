@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solidity 0.8/02-Hello World.md",
+                "file": "Solidity 0.8/03-Value Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solidity 0.8/02-Hello World.md",
+                "file": "Solidity 0.8/03-Value Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solidity 0.8/02-Hello World.md",
+                "file": "Solidity 0.8/03-Value Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solidity 0.8/02-Hello World.md"
+                "file": "Solidity 0.8/03-Value Types.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "599e88185e90d71e",
   "lastOpenFiles": [
-    "코드팩토리-Nest.js/04-NestJS 요청 라이프사이클.md",
     "Solidity 0.8/02-Hello World.md",
+    "Solidity 0.8/03-Value Types.md",
+    "코드팩토리-Nest.js/04-NestJS 요청 라이프사이클.md",
     "Solidity 0.8",
     "코드팩토리-Nest.js/03-폴더구조.md",
     "코드팩토리-Nest.js/02-HTTP, REST API.md",
@@ -183,7 +184,6 @@
     "CSS/align-items.md",
     "React&&Next/리액트 Hooks/Hooks 의 개념.md",
     "Node.js/npm start 와 npm run start.md",
-    "GoLang/go언어의 type 생략.md",
     "GoLang/Go언어의 import ",
     "React&&Next/리액트 Hooks",
     "React&&Next",
