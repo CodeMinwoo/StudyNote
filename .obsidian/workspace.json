@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "20a40fa73a57bd57",
+        "id": "f9ea767a2a41e3f1",
         "type": "tabs",
         "children": [
           {
-            "id": "b920af9f392c2210",
+            "id": "96ee364140f55ae0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT.md",
+                "file": "마이프라이빗티처/2024-12-12.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5a6a51fa9aa11856",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "마이프라이빗티처/2024-12-11.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-12"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -67,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -75,14 +68,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dbcab952150cfeec",
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "마이프라이빗티처/2024-12-11.md",
+                "file": "마이프라이빗티처/2024-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "2024-12-12의 백링크"
             }
           },
           {
@@ -115,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "마이프라이빗티처/2024-12-11.md",
+                "file": "마이프라이빗티처/2024-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "2024-12-12의 나가는 링크"
             }
           },
           {
@@ -129,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "마이프라이빗티처/2024-12-11.md"
-              }
+                "file": "마이프라이빗티처/2024-12-12.md"
+              },
+              "icon": "lucide-list",
+              "title": "2024-12-12 개요"
             }
           }
         ]
@@ -160,8 +164,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a6a51fa9aa11856",
+  "active": "96ee364140f55ae0",
   "lastOpenFiles": [
+    "마이프라이빗티처/2024-12-12.md",
     "GIT.md",
     "마이프라이빗티처/2024-12-11.md",
     "디자인패턴/싱글톤.md",
@@ -195,7 +200,6 @@
     "Nest.js/MSA",
     "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md",
     "Pasted image 20240813015130.png",
-    "Node.js개발자되기/03장/무제 파일.md",
     "Node.js개발자되기/03장",
     "Node.js개발자되기",
     "Pasted image 20240813015053.png",
