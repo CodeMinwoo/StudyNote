@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마이프라이빗티처/2024-12-12.md",
+                "file": "마이프라이빗티처/2024-12-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-12"
+              "title": "2024-12-13"
             }
           }
         ]
@@ -167,6 +167,7 @@
   "active": "96ee364140f55ae0",
   "lastOpenFiles": [
     "마이프라이빗티처/2024-12-12.md",
+    "마이프라이빗티처/2024-12-13.md",
     "GIT.md",
     "마이프라이빗티처/2024-12-11.md",
     "디자인패턴/싱글톤.md",
@@ -198,7 +199,6 @@
     "Nest.js/MSA/예시 코드.md",
     "Node.js/일반적인 웹서버가 제공하는 기능.md",
     "Nest.js/MSA",
-    "Node.js/분기문에 사용되는 매개변수가 같은 패턴을 보일 때.md",
     "Pasted image 20240813015130.png",
     "Node.js개발자되기/03장",
     "Node.js개발자되기",
