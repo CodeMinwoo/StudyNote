@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마이프라이빗티처/2024-12-24.md",
+                "file": "마이프라이빗티처/2024-12-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-24"
+              "title": "2024-12-26"
             }
           }
         ]
@@ -166,6 +166,7 @@
   "active": "04d7b76206605776",
   "lastOpenFiles": [
     "마이프라이빗티처/2024-12-24.md",
+    "마이프라이빗티처/2024-12-26.md",
     "마이프라이빗티처/2024-12-18.md",
     "마이프라이빗티처/2024-12-19.md",
     "GIT.md",
@@ -193,7 +194,6 @@
     "코드팩토리-Nest.js/03-폴더구조.md",
     "코드팩토리-Nest.js/02-HTTP, REST API.md",
     "코드팩토리-Nest.js/01-Nest.js 소개.md",
-    "Nest.js/필터 ( Filter ).md",
     "코드팩토리-Nest.js",
     "________.csv",
     "Nest.js/데코레이터",
