@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eslint",
+                "query": "dbea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04d7b76206605776",
+  "active": "759d444acc2c9404",
   "lastOpenFiles": [
     "마이프라이빗티처/2024-12-18.md",
     "마이프라이빗티처/2025-01-03.md",
