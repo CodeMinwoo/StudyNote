@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0bfeb493cb6f68b5",
+        "id": "20d9329043910a24",
         "type": "tabs",
         "children": [
           {
-            "id": "04d7b76206605776",
+            "id": "d98a83ad3e868513",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,10 +164,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04d7b76206605776",
+  "active": "d98a83ad3e868513",
   "lastOpenFiles": [
-    "마이프라이빗티처/2025-01-16.md",
     "마이프라이빗티처/2025-01-20.md",
+    "마이프라이빗티처/2025-01-16.md",
     "마이프라이빗티처/2025-01-14.md",
     "마이프라이빗티처/2025-01-09.md",
     "마이프라이빗티처/2025-01-03.md",
