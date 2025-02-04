@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-02-03"
             }
+          },
+          {
+            "id": "5e27d21ccb4bae91",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6093d72b3709b1c9",
+  "active": "5e27d21ccb4bae91",
   "lastOpenFiles": [
     "마이프라이빗티처/2025-02-03.md",
     "마이프라이빗티처/2025-01-31.md",
