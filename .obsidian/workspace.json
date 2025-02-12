@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025-02-12"
             }
+          },
+          {
+            "id": "eb0a0d1787c7853a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "마이프라이빗티처/2025-02-12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,10 +179,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "844691cc50999ee9",
+  "active": "eb0a0d1787c7853a",
   "lastOpenFiles": [
-    "GIT.md",
+    "React 커스텀 훅.md",
     "마이프라이빗티처/2025-02-12.md",
+    "React 훅(Hook).md",
+    "무제",
+    "GIT.md",
     "마이프라이빗티처/2025-02-11.md",
     "마이프라이빗티처/2024-12-18.md",
     "마이프라이빗티처/2025-02-10.md",
@@ -191,8 +209,6 @@
     "마이프라이빗티처/2024-12-22.md",
     "마이프라이빗티처/2024-12-20.md",
     "마이프라이빗티처/2024-12-19.md",
-    "마이프라이빗티처/2024-12-17.md",
-    "마이프라이빗티처/2024-12-16.md",
     "마이프라이빗티처/GIT",
     "마이프라이빗티처",
     "Solidity 0.8",
@@ -204,7 +220,6 @@
     "Node.js개발자되기/03장",
     "Node.js개발자되기",
     "Pasted image 20240813015053.png",
-    "GoLang/Go언어의 import ",
     "145280739.jpeg"
   ]
 }
