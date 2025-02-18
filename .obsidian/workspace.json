@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entries",
+                "query": "\btypeof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +165,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48196504bdb1d120",
+  "active": "759d444acc2c9404",
   "lastOpenFiles": [
     "마이프라이빗티처/2025-02-18.md",
     "마이프라이빗티처/2025-02-07.md",
