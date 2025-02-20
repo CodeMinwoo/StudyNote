@@ -25,12 +25,14 @@
             "id": "308b241da9f6d9d9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "마이프라이빗티처/2025-02-20.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "2025-02-20"
             }
           }
         ],
@@ -179,6 +181,7 @@
   },
   "active": "308b241da9f6d9d9",
   "lastOpenFiles": [
+    "마이프라이빗티처/2025-02-20.md",
     "마이프라이빗티처/2025-02-18.md",
     "마이프라이빗티처/2025-02-19.md",
     "마이프라이빗티처/2025-02-17.md",
@@ -206,7 +209,6 @@
     "마이프라이빗티처/2025-01-16.md",
     "마이프라이빗티처/2025-01-14.md",
     "마이프라이빗티처/2025-01-09.md",
-    "마이프라이빗티처/2025-01-03.md",
     "마이프라이빗티처/GIT",
     "마이프라이빗티처",
     "Solidity 0.8",
