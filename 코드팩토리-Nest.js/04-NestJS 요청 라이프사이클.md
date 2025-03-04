@@ -6,3 +6,7 @@
 - **파이프**: 들어오는 데이터를 검증하고 필요한 형식으로 변환하여, 컨트롤러가 신뢰할 수 있는 데이터를 받도록 합니다.
 
 
+* @nestjs/common 에서 Get, Post , Patch , Delete 가져와서 사용
+* @Controller annotation에 prefix 넣어서 사용한다
+* @Param()으로 path parameter 가져와서 사용한다.
+
