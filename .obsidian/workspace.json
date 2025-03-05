@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코드팩토리-Nest.js/04-NestJS 요청 라이프사이클.md",
+                "file": "코딩테스트 정리/LV.0 몫 구하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-NestJS 요청 라이프사이클"
+              "title": "LV.0 몫 구하기"
             }
           }
         ]
@@ -166,6 +166,9 @@
   },
   "active": "48196504bdb1d120",
   "lastOpenFiles": [
+    "코드팩토리-Nest.js/04-NestJS 요청 라이프사이클.md",
+    "코딩테스트 정리/LV.0 몫 구하기.md",
+    "코딩테스트 정리",
     "코드팩토리-Nest.js/03-폴더구조.md",
     "코드팩토리-Nest.js/01-Nest.js 소개.md",
     "마이프라이빗티처/2025-03-04.md",
@@ -194,15 +197,12 @@
     "마이프라이빗티처/2025-02-10.md",
     "무제.canvas",
     "마이프라이빗티처/2025-02-04.md",
-    "무제.md",
-    "마이프라이빗티처/2025-02-03.md",
     "마이프라이빗티처/GIT",
     "마이프라이빗티처",
     "Solidity 0.8",
     "코드팩토리-Nest.js",
     "________.csv",
     "Nest.js/데코레이터",
-    "Nest.js/MSA",
     "Pasted image 20240813015130.png",
     "Pasted image 20240813015053.png",
     "145280739.jpeg"
