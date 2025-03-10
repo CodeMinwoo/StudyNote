@@ -25,12 +25,14 @@
             "id": "b7094bf6748e8a06",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "마이프라이빗티처/2025-03-10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "2025-03-10"
             }
           }
         ],
@@ -179,6 +181,7 @@
   },
   "active": "b7094bf6748e8a06",
   "lastOpenFiles": [
+    "마이프라이빗티처/2025-03-10.md",
     "마이프라이빗티처/2025-03-05.md",
     "마이프라이빗티처/2025-03-07.md",
     "Nest.js.md",
@@ -208,7 +211,6 @@
     "마이프라이빗티처/2025-02-13.md",
     "React 커스텀 훅.md",
     "React 훅(Hook).md",
-    "GIT.md",
     "무제.canvas",
     "마이프라이빗티처/GIT",
     "마이프라이빗티처",
