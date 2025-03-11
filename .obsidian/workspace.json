@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기술부채/react-hook-form.md",
+                "file": "마이프라이빗티처/2025-03-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "react-hook-form"
+              "title": "2025-03-11"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "args",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,10 +194,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "700ab1b7af7bc9c4",
+  "active": "759d444acc2c9404",
   "lastOpenFiles": [
-    "기술부채/zod.md",
     "기술부채/react-hook-form.md",
+    "기술부채/zod.md",
     "기술부채/date-fns.md",
     "마이프라이빗티처/2025-03-11.md",
     "기술부채",
